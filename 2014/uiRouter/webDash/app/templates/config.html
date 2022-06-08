@@ -1,0 +1,19 @@
+﻿<div id="page" class="modules">
+    <h2>Modules</h2>
+    <p>Use this screen to enable / disable modules on <strong>WebDash</strong>.</p>
+
+    <div class="modules">
+        <div ng-repeat="module in modules" class="module">
+            <p class="name">{{module.displayName}}</p>
+            <div>
+                <a ui-sref="config.sb">
+                    <img ng-src="{{module.moduleLogo}}" alt="" />
+                </a>
+            </div>
+            <div class="moduleToggle">
+                <button class="btn btn-success" ng-click="setState(this.module, false)" ng-show="module.enabled">Enabled</button>
+                <button class="btn btn-danger" ng-click="setState(this.module, true)" ng-show="!module.enabled">Disabled</button>
+            </div>
+        </div>
+    </div>
+</div>
