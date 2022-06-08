@@ -1,0 +1,18 @@
+﻿@using UrlsToGo.RnUtils
+
+@{
+    RnPageScripts.Instance.AddScript("/Content/pages/shorten.css");
+    RnPageScripts.Instance.AddScript("/Scripts/pages/shorten.js", "js");
+}
+
+<div class="row-fluid" id="shortenFlowDiv">
+    <div class="span10">
+        <input type="text" class="input-medium search-query" name="shortenUrl" id="shortenUrl" placeholder="URL to shorten (e.g. http:///www.google.com/)">
+    </div>
+    <div class="span2">
+        <button type="button" class="btn" name="buttonShorten" id="buttonShorten" disabled>Shrink</button>
+    </div>
+</div>
+
+<div id="shortenMessageDiv"></div>
+<div id="qrCodeDiv"></div>

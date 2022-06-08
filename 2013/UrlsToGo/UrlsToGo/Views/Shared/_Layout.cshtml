@@ -1,0 +1,55 @@
+﻿@using UrlsToGo.RnUtils
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        @Styles.Render("~/Content/css")
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+        @Styles.Render(RnPageScripts.Instance.GetScripts())
+        @Scripts.Render("~/bundles/modernizr")
+        
+        <style>
+            body {
+                padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+            }
+        </style>
+
+    </head>
+    <body>
+        <!-- Top Navigation -->
+        <div class="navbar navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="brand" href="/">Tiny</a>
+                    <div class="nav-collapse collapse">
+                        <ul class="nav">
+                            <li class="active"><a href="/">Shorten</a></li>
+                            <li class=""><a href="#">Top 10</a></li>
+                            <li class=""><a href="#">Just Added</a></li>
+                        </ul>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+        
+        <!-- Page Content -->
+        <div class="container">
+            @RenderBody()
+        </div>
+
+        <!-- Page Footer -->
+        @Scripts.Render("~/bundles/jquery")
+        <script src="~/Scripts/bootstrap.min.js"></script>
+        @Scripts.Render(RnPageScripts.Instance.GetScripts("js"))
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

@@ -1,0 +1,36 @@
+﻿input#shortenUrl {
+    width: 98%;
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    display: inline-block;
+    float: left;
+}
+
+button#buttonShorten {
+    width: 98%;
+    display: inline-block;
+    float: right;
+}
+
+div#shortenMessageDiv {
+    display: none;
+}
+
+span.shortSpan {
+    padding-left: 15px;
+    font-size: 24px;
+    font-family: proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+div#qrCodeDiv {
+    display: none;
+    text-align: center;
+}
+
+button.startOver {
+    font-size: 24px;
+    margin-top: 10px;
+    padding: 8px;
+    font-family: proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
