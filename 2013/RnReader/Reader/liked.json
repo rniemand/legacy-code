@@ -1,0 +1,411 @@
+{
+  "id" : "user/04687667811817497376/state/com.google/like",
+  "title" : "\"like\" via Richard in Google Reader",
+  "author" : "Richard",
+  "updated" : 1303931582,
+  "direction" : "ltr",
+  "items" : [ {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1303931582603",
+    "timestampUsec" : "1303931582603374",
+    "id" : "tag:google.com,2005:reader/item/4d8a8b031ae76720",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "user/04687667811817497376/state/com.google/tracking-mobile-read" ],
+    "title" : "Movie Ages",
+    "published" : 1303876800,
+    "updated" : 1303876800,
+    "alternate" : [ {
+      "href" : "http://xkcd.com/891/",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "<img src=\"http://imgs.xkcd.com/comics/movie_ages.png\" title=\"If you&#39;re 15 or younger, then just remember that it&#39;s nevertheless probably too late to be a child prodigy.\" alt=\"If you&#39;re 15 or younger, then just remember that it&#39;s nevertheless probably too late to be a child prodigy.\">"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://xkcd.com/rss.xml",
+      "title" : "xkcd.com",
+      "htmlUrl" : "http://xkcd.com/"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1291871714651",
+    "timestampUsec" : "1291871714651951",
+    "id" : "tag:google.com,2005:reader/item/f32999ce78b503a2",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "Hall of Fame", "lolcats", "baby", "fail", "fall", "gif", "karma", "kids", "mean", "pool" ],
+    "title" : "GIF: Datz Karma fer U, Kid!",
+    "published" : 1291737606,
+    "updated" : 1291737606,
+    "alternate" : [ {
+      "href" : "http://feedproxy.google.com/~r/ICanHasCheezburger/~3/I6Lpl6eeUNA/",
+      "type" : "text/html"
+    } ],
+    "canonical" : [ {
+      "href" : "http://icanhascheezburger.com/2010/12/07/funny-pictures-gifs-cat-kid-pool/"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p><a href=\"http://senorgif.memebase.com\" rel=\"nofollow\"><img src=\"http://icanhascheezburger.files.wordpress.com/2010/12/aasdf.gif?w=287&amp;h=182\" alt=\"Funny Pictures - Cat Gifs\" title=\"Funny Pictures - Cat Gifs\" width=\"287\" height=\"182\"></a></p>\n<p><a href=\"http://senorgif.memebase.com\" rel=\"nofollow\">Moar gifs dis-a-way!</a></p>\n<p><img src=\"http://icanhascheezburger.files.wordpress.com/2010/07/bestcommentichc.png?w=24&amp;h=24&amp;h=24\" alt=\"\" title=\"BestCommentICHC\" width=\"24\" height=\"24\" style=\"vertical-align:middle;margin-right:5px\"><strong>Faeborit Coment:</strong> <em>“Kitteh – 1. Kid – 0.”</em> – jingyfae</p>\n<br>  <a rel=\"nofollow\" href=\"http://feeds.wordpress.com/1.0/gocomments/icanhascheezburger.wordpress.com/315919/\"><img alt=\"\" border=\"0\" src=\"http://feeds.wordpress.com/1.0/comments/icanhascheezburger.wordpress.com/315919/\"></a> <a rel=\"nofollow\" href=\"http://feeds.wordpress.com/1.0/godelicious/icanhascheezburger.wordpress.com/315919/\"><img alt=\"\" border=\"0\" src=\"http://feeds.wordpress.com/1.0/delicious/icanhascheezburger.wordpress.com/315919/\"></a> <a rel=\"nofollow\" href=\"http://feeds.wordpress.com/1.0/gofacebook/icanhascheezburger.wordpress.com/315919/\"><img alt=\"\" border=\"0\" src=\"http://feeds.wordpress.com/1.0/facebook/icanhascheezburger.wordpress.com/315919/\"></a> <a rel=\"nofollow\" href=\"http://feeds.wordpress.com/1.0/gotwitter/icanhascheezburger.wordpress.com/315919/\"><img alt=\"\" border=\"0\" src=\"http://feeds.wordpress.com/1.0/twitter/icanhascheezburger.wordpress.com/315919/\"></a> <a rel=\"nofollow\" href=\"http://feeds.wordpress.com/1.0/gostumble/icanhascheezburger.wordpress.com/315919/\"><img alt=\"\" border=\"0\" src=\"http://feeds.wordpress.com/1.0/stumble/icanhascheezburger.wordpress.com/315919/\"></a> <a rel=\"nofollow\" href=\"http://feeds.wordpress.com/1.0/godigg/icanhascheezburger.wordpress.com/315919/\"><img alt=\"\" border=\"0\" src=\"http://feeds.wordpress.com/1.0/digg/icanhascheezburger.wordpress.com/315919/\"></a> <a rel=\"nofollow\" href=\"http://feeds.wordpress.com/1.0/goreddit/icanhascheezburger.wordpress.com/315919/\"><img alt=\"\" border=\"0\" src=\"http://feeds.wordpress.com/1.0/reddit/icanhascheezburger.wordpress.com/315919/\"></a> <img alt=\"\" border=\"0\" src=\"http://stats.wordpress.com/b.gif?host=icanhascheezburger.com&amp;blog=994826&amp;post=315919&amp;subd=icanhascheezburger&amp;ref=&amp;feed=1\" width=\"1\" height=\"1\"><div>\n<a href=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?a=I6Lpl6eeUNA:U8mOc07y2gU:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?d=yIl2AUoC8zA\" border=\"0\"></a> <a href=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?a=I6Lpl6eeUNA:U8mOc07y2gU:cGdyc7Q-1BI\"><img src=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?d=cGdyc7Q-1BI\" border=\"0\"></a> <a href=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?a=I6Lpl6eeUNA:U8mOc07y2gU:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?d=qj6IDK7rITs\" border=\"0\"></a> <a href=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?a=I6Lpl6eeUNA:U8mOc07y2gU:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?i=I6Lpl6eeUNA:U8mOc07y2gU:gIN9vFwOqvQ\" border=\"0\"></a> <a href=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?a=I6Lpl6eeUNA:U8mOc07y2gU:V-t1I-SPZMU\"><img src=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?d=V-t1I-SPZMU\" border=\"0\"></a> <a href=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?a=I6Lpl6eeUNA:U8mOc07y2gU:F7zBnMyn0Lo\"><img src=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?i=I6Lpl6eeUNA:U8mOc07y2gU:F7zBnMyn0Lo\" border=\"0\"></a> <a href=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?a=I6Lpl6eeUNA:U8mOc07y2gU:DN0H40_Ym5U\"><img src=\"http://feeds.feedburner.com/~ff/ICanHasCheezburger?d=DN0H40_Ym5U\" border=\"0\"></a>\n</div><img src=\"http://feeds.feedburner.com/~r/ICanHasCheezburger/~4/I6Lpl6eeUNA\" height=\"1\" width=\"1\">"
+    },
+    "author" : "TehGrateCheez",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://feeds.feedburner.com/ICanHasCheezburger",
+      "title" : "I Can Has Cheezburger?",
+      "htmlUrl" : "http://icanhas.cheezburger.com/"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1291871667257",
+    "timestampUsec" : "1291871667257802",
+    "id" : "tag:google.com,2005:reader/item/f6e05cba5c54b596",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "photo" ],
+    "title" : "Still life. Totally brilliant.",
+    "published" : 1291795209,
+    "updated" : 1291795209,
+    "alternate" : [ {
+      "href" : "http://www.onecoolthingaday.com/today/2010/12/8/still-life-totally-brilliant.html",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p>Wires transform these objects from inanimate to hilarious works of art.</p>\n<p><span><span><img style=\"width:500px\" src=\"http://www.onecoolthingaday.com/storage/TerryBorder02.jpg?__SQUARESPACE_CACHEVERSION=1291790076044\" alt=\"\"></span></span></p>\n<p><span><span><img style=\"width:500px\" src=\"http://www.onecoolthingaday.com/storage/TerryBorder03.jpg?__SQUARESPACE_CACHEVERSION=1291790096967\" alt=\"\"></span></span></p>\n<p><span><span><img style=\"width:500px\" src=\"http://www.onecoolthingaday.com/storage/TerryBorder07.jpg?__SQUARESPACE_CACHEVERSION=1291790119437\" alt=\"\"></span></span></p>\n<p><span><span><img style=\"width:500px\" src=\"http://www.onecoolthingaday.com/storage/TerryBorder08.jpg?__SQUARESPACE_CACHEVERSION=1291790158851\" alt=\"\"></span></span></p>\n<p><span><span><img style=\"width:500px\" src=\"http://www.onecoolthingaday.com/storage/TerryBorder09.jpg?__SQUARESPACE_CACHEVERSION=1291790183109\" alt=\"\"></span></span></p>\n<p><span><span><img style=\"width:500px\" src=\"http://www.onecoolthingaday.com/storage/TerryBorder13.jpg?__SQUARESPACE_CACHEVERSION=1291790208109\" alt=\"\"></span></span></p>\n<p><span><span><img style=\"width:500px\" src=\"http://www.onecoolthingaday.com/storage/TerryBorder14.jpg?__SQUARESPACE_CACHEVERSION=1291790229697\" alt=\"\"></span></span></p>\n<p><span><span><img style=\"width:500px\" src=\"http://www.onecoolthingaday.com/storage/TerryBorder17.jpg?__SQUARESPACE_CACHEVERSION=1291790251653\" alt=\"\"></span></span></p>\n<p>Found on: <a href=\"http://www.bentobjects.blogspot.com/\">www.bentobjects.blogspot.com</a></p>\n<p><em>Submitted by B.Jones</em></p>"
+    },
+    "author" : "Dan",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://www.onecoolthingaday.com/today/atom.xml",
+      "title" : "One Cool Thing a Day",
+      "htmlUrl" : "http://www.onecoolthingaday.com/today/"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1291871635925",
+    "timestampUsec" : "1291871635925501",
+    "id" : "tag:google.com,2005:reader/item/1e952c563489913b",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "comic" ],
+    "title" : "college classhole",
+    "published" : 1291798800,
+    "updated" : 1291798800,
+    "alternate" : [ {
+      "href" : "http://www.toothpastefordinner.com/120810",
+      "type" : "text/html"
+    } ],
+    "related" : [ {
+      "href" : "http://www.toothpastefordinner.com/archives/2010/Dec"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "<div><img border=\"1\" src=\"http://www.toothpastefordinner.com/120810/college-classhole.gif\" alt=\"college classhole\"></div><hr><div><a style=\"border:0\" href=\"http://www.sharingmachine.com/index.php\"><img src=\"http://www.toothpastefordinner.com/rss/ads/sm-xmas2010-2.gif\"></a><br><br>Follow <a href=\"http://twitter.com/drewtoothpaste\">@drewtoothpaste</a> on Twitter or join the <a href=\"http://www.facebook.com/pages/Drew-Toothpaste-For-Dinner/237825069812\">TFD Facebook Page.</a></div>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://www.toothpastefordinner.com/rss/rss.php",
+      "title" : "Toothpaste For Dinner",
+      "htmlUrl" : "http://www.toothpastefordinner.com"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1291871618910",
+    "timestampUsec" : "1291871618910911",
+    "id" : "tag:google.com,2005:reader/item/a785786f04a0ac11",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "Funny" ],
+    "title" : "Question asked by Eskimo hunter to priest",
+    "published" : 1291781557,
+    "updated" : 1291781557,
+    "alternate" : [ {
+      "href" : "http://feeds.boingboing.net/~r/boingboing/iBag/~3/3YuPOuLMyso/question-asked-by-es.html",
+      "type" : "text/html"
+    } ],
+    "canonical" : [ {
+      "href" : "http://www.boingboing.net/2010/12/07/question-asked-by-es.html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "Via <a href=\"http://www.futilitycloset.com/2010/11/30/mixed-blessing/\">Futility Closet</a>: <blockquote>I read about an Eskimo hunter who asked the local missionary priest, 'If I did not know about God and sin, would I go to hell?' 'No,' said the priest, 'not if you did not know.' 'Then why,' asked the Eskimo earnestly, 'did you tell me?'\n<p>\n- Annie Dillard, Pilgrim at Tinker Creek, 1974</p></blockquote><br style=\"clear:both\">\n<br style=\"clear:both\">\n<a href=\"http://ads.pheedo.com/click.phdo?s=242476cae25a6c2ca78998cf847840e4&amp;p=1\"><img alt=\"\" style=\"border:0\" border=\"0\" src=\"http://ads.pheedo.com/img.phdo?s=242476cae25a6c2ca78998cf847840e4&amp;p=1\"></a>\n<img alt=\"\" height=\"0\" width=\"0\" border=\"0\" src=\"http://segment-pixel.invitemedia.com/pixel?code=TechCons&amp;partnerID=167&amp;key=segment\"><img alt=\"\" height=\"0\" width=\"0\" border=\"0\" src=\"http://pixel.quantserve.com/pixel/p-8bUhLiluj0fAw.gif?labels=pub.28925.rss.TechCons.7604,cat.TechCons.rss\"><img src=\"http://feeds.feedburner.com/~r/boingboing/iBag/~4/3YuPOuLMyso\" height=\"1\" width=\"1\">"
+    },
+    "author" : "Mark Frauenfelder",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://feeds.boingboing.net/boingboing/iBag",
+      "title" : "Boing Boing",
+      "htmlUrl" : "http://boingboing.net"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1268130519134",
+    "timestampUsec" : "1268130519134369",
+    "id" : "tag:google.com,2005:reader/item/472ac11207f43cf5",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "Comics" ],
+    "title" : "Car Repairs",
+    "published" : 1265637600,
+    "updated" : 1265637600,
+    "alternate" : [ {
+      "href" : "http://www.amazingsuperpowers.com/2010/02/car-repairs/",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p><a href=\"http://www.amazingsuperpowers.com/2010/02/car-repairs/\"><img src=\"http://www.amazingsuperpowers.com/comics/2010-02-08-Car-Repairs.png\" border=\"0\" alt=\"Car Repairs\" title=\"Doing your own repairs instead of paying someone to do them? What are you, anti-capitalist?\"></a></p><p>A comic happened today despite Tony wasting his time on bear fighting while Wes was torn in two.</p>"
+    },
+    "author" : "Wes",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://www.amazingsuperpowers.com/category/comics/feed/",
+      "title" : "AmazingSuperPowers: Webcomic at the Speed of Light » Comics",
+      "htmlUrl" : "http://www.amazingsuperpowers.com"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1268130473628",
+    "timestampUsec" : "1268130473628718",
+    "id" : "tag:google.com,2005:reader/item/ef1eb32a36edc990",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "user/04687667811817497376/state/com.google/tracking-item-link-used", "Comics" ],
+    "title" : "03.09.2010",
+    "published" : 1268092800,
+    "updated" : 1268092800,
+    "alternate" : [ {
+      "href" : "http://www.explosm.net/comics/1979/",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "<p><img alt=\"\"></p>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://pipes.yahoo.com/pipes/pipe.run?_id=AFdCTcWd3BGTA9wwE5PZnA&_render=rss",
+      "title" : "Cyanide and Happiness",
+      "htmlUrl" : "http://pipes.yahoo.com/pipes/pipe.info?_id=AFdCTcWd3BGTA9wwE5PZnA"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1260268431986",
+    "timestampUsec" : "1260268431986498",
+    "id" : "tag:google.com,2005:reader/item/a186587a9ba580ef",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "Comics" ],
+    "title" : "Senator Batman",
+    "published" : 1255960800,
+    "updated" : 1255960800,
+    "alternate" : [ {
+      "href" : "http://www.amazingsuperpowers.com/2009/10/senator-batman/",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p><a href=\"http://www.amazingsuperpowers.com/2009/10/senator-batman/\"><img src=\"http://www.amazingsuperpowers.com/comics/2009-10-19-Senator-Batman.png\" border=\"0\" alt=\"Senator Batman\" title=\"Still not as awkward as the time Clarence Thomas claimed to be Superman.\"></a></p><p>Whew! Tony became a railroad tycoon while Wes witnessed two people being stitched together, and somewhere in all of this a comic was made!</p>\n<p>And alas! We are making you wait <em>one more day</em> for the ASP Contest winners! We are down to deciding between the best five and will announce them tomorrow!</p>"
+    },
+    "author" : "Wes",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://www.amazingsuperpowers.com/category/comics/feed/",
+      "title" : "AmazingSuperPowers: Webcomic at the Speed of Light » Comics",
+      "htmlUrl" : "http://www.amazingsuperpowers.com"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1260268389231",
+    "timestampUsec" : "1260268389231392",
+    "id" : "tag:google.com,2005:reader/item/348b0d5d76c833ca",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "Comics" ],
+    "title" : "Life Lesson",
+    "published" : 1255356000,
+    "updated" : 1255356000,
+    "alternate" : [ {
+      "href" : "http://www.amazingsuperpowers.com/2009/10/life-lesson/",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p><a href=\"http://www.amazingsuperpowers.com/2009/10/life-lesson/\"><img src=\"http://www.amazingsuperpowers.com/comics/2009-10-12-Life-Lesson.png\" border=\"0\" alt=\"Life Lesson\" title=\"We&#39;d be a healthier nation if more of our childhood pets died from diabetes and hypertension.\"></a></p><p>Be glad there is a comic here because Tony was off enjoying freedom from his fallout shelter while Wes was trippin’ balls.</p>\n<p>We’re still deliberating on the winners of the ASP Anniversary Contest and will announce them by this Thursday!</p>"
+    },
+    "author" : "Wes",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://www.amazingsuperpowers.com/category/comics/feed/",
+      "title" : "AmazingSuperPowers: Webcomic at the Speed of Light » Comics",
+      "htmlUrl" : "http://www.amazingsuperpowers.com"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1260268377054",
+    "timestampUsec" : "1260268377054066",
+    "id" : "tag:google.com,2005:reader/item/85c2faadc55baa13",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "Comics" ],
+    "title" : "Locksmith",
+    "published" : 1253541600,
+    "updated" : 1253541600,
+    "alternate" : [ {
+      "href" : "http://www.amazingsuperpowers.com/2009/09/locksmith/",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p><a href=\"http://www.amazingsuperpowers.com/2009/09/locksmith/\"><img src=\"http://www.amazingsuperpowers.com/comics/2009-09-21-Locksmith.png\" border=\"0\" alt=\"Locksmith\" title=\"&#39;Jeez, and this van is double parked in front of my shop. Better call the tow truck guy...Oh no, where&#39;s my van?!&#39;\"></a></p><p>This week’s comic is here despite the fact that Tony was engulfed in a swarm of bees while Wes’ average body temperature was raised by a couple hundred degrees.</p>\n<p>Also, we have a new shirt! <a href=\"http://www.topatoco.com/merchant.mvc?Screen=PROD&amp;Store_Code=TO&amp;Product_Code=ASP-HOOPDREAMS&amp;Category_Code=ASP\">Check it out!</a></p>"
+    },
+    "author" : "Wes",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://www.amazingsuperpowers.com/category/comics/feed/",
+      "title" : "AmazingSuperPowers: Webcomic at the Speed of Light » Comics",
+      "htmlUrl" : "http://www.amazingsuperpowers.com"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1260268105438",
+    "timestampUsec" : "1260268105438560",
+    "id" : "tag:google.com,2005:reader/item/d856e50c2cd0b5c4",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "Comics" ],
+    "title" : "Which One Do I Shoot",
+    "published" : 1251381600,
+    "updated" : 1251381600,
+    "alternate" : [ {
+      "href" : "http://www.amazingsuperpowers.com/2009/08/which-one-do-i-shoot/",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p><a href=\"http://www.amazingsuperpowers.com/2009/08/which-one-do-i-shoot/\"><img src=\"http://www.amazingsuperpowers.com/comics/2009-08-27-Which-One-Do-I-Shoot.png\" border=\"0\" alt=\"Which One Do I Shoot\" title=\"Their song was Alanis Morissette&#39;s &#39;You Oughta Know&#39;\"></a></p><p>Today a comic bursts into the room even though Wes was <a href=\"http://twitter.com/amazingsoup/status/3546990528\">bettering himself </a>and Tony was underneath an opera house planning his revenge.</p>"
+    },
+    "author" : "Wes",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://www.amazingsuperpowers.com/category/comics/feed/",
+      "title" : "AmazingSuperPowers: Webcomic at the Speed of Light » Comics",
+      "htmlUrl" : "http://www.amazingsuperpowers.com"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1260268078745",
+    "timestampUsec" : "1260268078745156",
+    "id" : "tag:google.com,2005:reader/item/7dec13f8e3a578b0",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "Comics" ],
+    "title" : "Fireworks",
+    "published" : 1251122400,
+    "updated" : 1251122400,
+    "alternate" : [ {
+      "href" : "http://www.amazingsuperpowers.com/2009/08/fireworks/",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p><a href=\"http://www.amazingsuperpowers.com/2009/08/fireworks/\"><img src=\"http://www.amazingsuperpowers.com/comics/2009-08-24-Fireworks.png\" border=\"0\" alt=\"Fireworks\" title=\"&#39;The other ones make me feel dry. And on land.&#39;\"></a></p><p>Special thanks to our pal Nathan for helping with this comic, since Wes and Tony were being eaten by ants.</p>"
+    },
+    "author" : "Wes",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://www.amazingsuperpowers.com/category/comics/feed/",
+      "title" : "AmazingSuperPowers: Webcomic at the Speed of Light » Comics",
+      "htmlUrl" : "http://www.amazingsuperpowers.com"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1259144475752",
+    "timestampUsec" : "1259144475752097",
+    "id" : "tag:google.com,2005:reader/item/35a4504bbf0a00fe",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "user/04687667811817497376/state/com.google/tracking-item-link-used", "Comics" ],
+    "title" : "11.25.2009",
+    "published" : 1259107200,
+    "updated" : 1259107200,
+    "alternate" : [ {
+      "href" : "http://www.explosm.net/comics/1869/",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "New Cyanide and Happiness Comic.<p><iframe src=\"http://feedads.g.doubleclick.net/~ah/f/1vsk1hj7g3mscaeb0s67j5s658/468/60#http%3A%2F%2Fwww.explosm.net%2Fcomics%2F1869%2F\" width=\"100%\" height=\"60\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe></p>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://feeds.feedburner.com/Explosm",
+      "title" : "Explosm.net",
+      "htmlUrl" : "http://www.explosm.net"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1259144450876",
+    "timestampUsec" : "1259144450876578",
+    "id" : "tag:google.com,2005:reader/item/9cd0335aaffb978c",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read" ],
+    "title" : "SkiFree",
+    "published" : 1259125200,
+    "updated" : 1259125200,
+    "alternate" : [ {
+      "href" : "http://xkcd.com/667/",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "<img src=\"http://imgs.xkcd.com/comics/skifree.png\" title=\"And from that day on, I wore this little &#39;F&#39; key pendant everywhere I went.\" alt=\"And from that day on, I wore this little &#39;F&#39; key pendant everywhere I went.\">"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://xkcd.com/rss.xml",
+      "title" : "xkcd.com",
+      "htmlUrl" : "http://xkcd.com/"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1257742355854",
+    "timestampUsec" : "1257742355854476",
+    "id" : "tag:google.com,2005:reader/item/76c74e3acd31782c",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "SCOM 2007", "SCCM 2007" ],
+    "title" : "URL Monitoring Part III – The Monitors",
+    "published" : 1247012520,
+    "updated" : 1247012520,
+    "alternate" : [ {
+      "href" : "http://blogs.msdn.com/b/rslaten/archive/2009/07/07/url-monitoring-part-iii-the-monitors.aspx",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "<p>This entry is part of the following series: <br><a href=\"http://blogs.msdn.com/rslaten/archive/2009/07/07/custom-url-monitoring-part-i-the-design.aspx\">URL Monitoring Part I – The Design</a> <br><a href=\"http://blogs.msdn.com/rslaten/archive/2009/07/07/url-monitoring-part-ii-the-classes-and-discoveries.aspx\">URL Monitoring Part II – The Classes and Discoveries</a> <br><a href=\"http://blogs.msdn.com/rslaten/archive/2009/07/07/url-monitoring-part-iii-the-monitors.aspx\">URL Monitoring Part III – The Monitors</a></p>\n<p>Creating the monitors was by far the most complex part of this solution because monitors do not use data sources directly.  Instead, they use Monitor Types which in turn use data sources.  This is because data sources don’t understand the difference between what is considered healthy and what isn’t.  </p>\n<p>Again, I will use the System Center Configuration Manager Management Point monitor for this example since the other scenarios are built in the same way.</p>\n<p>Step 1 – Creating the web page up/down data source.  This custom data source is generic and can be used for any URL but its primary function is to return whether or not a web page returns with or without error.  <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture15.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture15\" border=\"0\" alt=\"Capture15\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture15_thumb.jpg\" width=\"604\" height=\"641\"></a> </p>\n<p>I use the System.Scheduler and Microsoft.SystemCenter.WebApplication.UrlProbe modules so this MP does take a dependency on the Web Application Library MP.  Make sure this is added as a reference under File\\Management Pack Properties before continuing. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture16.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture16\" border=\"0\" alt=\"Capture16\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture16_thumb.jpg\" width=\"604\" height=\"641\"></a> </p>\n<p>The System.Scheduler module is used for kicking off the URL Probe on a dynamic interval which in my example ends up being every 15 seconds.  This is a parameter that is passed at the monitor level. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture17.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture17\" border=\"0\" alt=\"Capture17\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture17_thumb.jpg\" width=\"604\" height=\"607\"></a> </p>\n<p>The Microsoft.SystemCenter.WebApplication.URLProbe module is very complex so I pasted the configuration below:</p>\n<p><font color=\"#c0c0c0\">&lt;ProbeAction ID=&quot;Probe&quot; TypeID=&quot;MicrosoftSystemCenterWebApplicationLibrary!Microsoft.SystemCenter.WebApplication.UrlProbe&quot;&gt; <br>  &lt;Proxy /&gt; <br>  &lt;ProxyUserName /&gt; <br>  &lt;ProxyPassword /&gt; <br>  &lt;ProxyAuthenticationScheme&gt;None&lt;/ProxyAuthenticationScheme&gt; <br>  &lt;CredentialUserName /&gt; <br>  &lt;CredentialPassword /&gt; <br>  &lt;AuthenticationScheme&gt;None&lt;/AuthenticationScheme&gt; <br>  &lt;FollowRedirects&gt;true&lt;/FollowRedirects&gt; <br>  &lt;RetryCount&gt;0&lt;/RetryCount&gt; <br>  &lt;RequestTimeout&gt;0&lt;/RequestTimeout&gt; <br>  &lt;Requests&gt; <br>    &lt;Request&gt; <br>      &lt;RequestID&gt;1&lt;/RequestID&gt; <br>      &lt;URL&gt;$Config/URLPath$&lt;/URL&gt; <br>      &lt;Verb&gt;GET&lt;/Verb&gt; <br>      &lt;Version&gt;HTTP/1.1&lt;/Version&gt; <br>      &lt;HttpHeaders&gt; <br>        &lt;HttpHeader&gt; <br>          &lt;Name&gt;User-Agent&lt;/Name&gt; <br>          &lt;Value&gt;Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)&lt;/Value&gt; <br>        &lt;/HttpHeader&gt; <br>      &lt;/HttpHeaders&gt; <br>      &lt;Body /&gt; <br>      &lt;CheckContentChange&gt;false&lt;/CheckContentChange&gt; <br>      &lt;ContentHash&gt;00000000-0000-0000-0000-000000000000&lt;/ContentHash&gt; <br>      &lt;Depth&gt;0&lt;/Depth&gt; <br>      &lt;ThinkTime&gt;0&lt;/ThinkTime&gt; <br>      &lt;CheckInternalLinks&gt;false&lt;/CheckInternalLinks&gt; <br>      &lt;CheckExternalLinks&gt;false&lt;/CheckExternalLinks&gt; <br>      &lt;CheckResources&gt;false&lt;/CheckResources&gt; <br>      &lt;RequestEvaluationCriteria&gt; <br>        &lt;StopProcessingIfWarningCriteriaIsMet&gt;false&lt;/StopProcessingIfWarningCriteriaIsMet&gt; <br>        &lt;StopProcessingIfErrorCriteriaIsMet&gt;false&lt;/StopProcessingIfErrorCriteriaIsMet&gt; <br>        &lt;BasePageEvaluationCriteria&gt; <br>          &lt;WarningCriteria /&gt; <br>          &lt;ErrorCriteria&gt; <br>            &lt;NumericCriteriaExpressions&gt; <br>              &lt;NumericCriteriaExpression&gt; <br>                &lt;NumericRequestMetric&gt;BasePageData/TotalResponseTime&lt;/NumericRequestMetric&gt; <br>                &lt;Operator&gt;Greater&lt;/Operator&gt; <br>                &lt;Value&gt;$Config/ResponseTime$&lt;/Value&gt; <br>              &lt;/NumericCriteriaExpression&gt; <br>            &lt;/NumericCriteriaExpressions&gt; <br>          &lt;/ErrorCriteria&gt; <br>        &lt;/BasePageEvaluationCriteria&gt; <br>        &lt;LinksEvaluationCriteria&gt; <br>          &lt;WarningCriteria&gt; <br>            &lt;StatusCodeCriteria&gt; <br>              &lt;ListNumericRequestMetric&gt;StatusCode&lt;/ListNumericRequestMetric&gt; <br>              &lt;Operator&gt;GreaterEqual&lt;/Operator&gt; <br>              &lt;Value&gt;400&lt;/Value&gt; <br>            &lt;/StatusCodeCriteria&gt; <br>          &lt;/WarningCriteria&gt; <br>          &lt;ErrorCriteria /&gt; <br>        &lt;/LinksEvaluationCriteria&gt; <br>        &lt;ResourcesEvaluationCriteria&gt; <br>          &lt;WarningCriteria&gt; <br>            &lt;StatusCodeCriteria&gt; <br>              &lt;ListNumericRequestMetric&gt;StatusCode&lt;/ListNumericRequestMetric&gt; <br>              &lt;Operator&gt;GreaterEqual&lt;/Operator&gt; <br>              &lt;Value&gt;400&lt;/Value&gt; <br>            &lt;/StatusCodeCriteria&gt; <br>          &lt;/WarningCriteria&gt; <br>          &lt;ErrorCriteria /&gt; <br>        &lt;/ResourcesEvaluationCriteria&gt; <br>        &lt;WebPageTotalEvaluationCriteria&gt; <br>          &lt;WarningCriteria /&gt; <br>          &lt;ErrorCriteria /&gt; <br>        &lt;/WebPageTotalEvaluationCriteria&gt; <br>        &lt;DepthEvaluationCriteria&gt; <br>          &lt;WarningCriteria /&gt; <br>          &lt;ErrorCriteria /&gt; <br>        &lt;/DepthEvaluationCriteria&gt; <br>      &lt;/RequestEvaluationCriteria&gt; <br>      &lt;FormsAuthCredentials /&gt; <br>    &lt;/Request&gt; <br>  &lt;/Requests&gt; <br>&lt;/ProbeAction&gt;</font></p>\n<p>This is passed to another data source in the Web Application Library which uses internal libraries to do the actual HTTP request.  </p>\n<p>The Configuration Schema tab contains the parameters which are passed to this data source.  Currently it only accepts the URL and the interval at which the URL is to be watched. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture18.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture18\" border=\"0\" alt=\"Capture18\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture18_thumb.jpg\" width=\"604\" height=\"638\"></a> </p>\n<p>This Data Source should output WebApplicationData. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture19.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture19\" border=\"0\" alt=\"Capture19\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture19_thumb.jpg\" width=\"604\" height=\"644\"></a> </p>\n<p>Step 2 – Creating the Monitor Type.  The Monitor Type takes parameters from the Monitor and passes them onto the data source.  It also evaluates the data source to help the monitor determine what criteria equals healthy versus unhealthy. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture20.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture20\" border=\"0\" alt=\"Capture20\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture20_thumb.jpg\" width=\"604\" height=\"599\"></a> </p>\n<p>For States just enter something that makes sense for the type of monitor you will be using. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture21.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture21\" border=\"0\" alt=\"Capture21\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture21_thumb.jpg\" width=\"604\" height=\"602\"></a> </p>\n<p>The Member Modules start with the data source we just created.  The Condition Detections are used to evaluate the results of the data source and the Probe Action is used to recalculate the state of the monitor manually. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture22.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture22\" border=\"0\" alt=\"Capture22\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture22_thumb.jpg\" width=\"604\" height=\"599\"></a> </p>\n<p>The configuration of the data source module is fairly simple in that we are accepting parameters from the monitor (which we haven’t created yet) and are just re-passing them to the data source. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture23.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture23\" border=\"0\" alt=\"Capture23\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture23_thumb.jpg\" width=\"604\" height=\"607\"></a> </p>\n<p>The first expression filter evaluates the web page as down. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture24.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture24\" border=\"0\" alt=\"Capture24\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture24_thumb.jpg\" width=\"604\" height=\"526\"></a> </p>\n<p>The second expression filter evaluates the web page as up. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture25.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture25\" border=\"0\" alt=\"Capture25\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture25_thumb.jpg\" width=\"604\" height=\"524\"></a> </p>\n<p>The OnDemandReset Probe Action does not contain any custom configuration information.</p>\n<p>Next we have to specify what order the modules will be executed for the regular detection when there is a failure. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture26.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture26\" border=\"0\" alt=\"Capture26\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture26_thumb.jpg\" width=\"604\" height=\"599\"></a> </p>Next we have to specify what order the modules will be executed for the regular detection when there is not a failure. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture27.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture27\" border=\"0\" alt=\"Capture27\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture27_thumb.jpg\" width=\"604\" height=\"604\"></a> <br>\n<p>For On Demand we just use the ErrorCodeOK state. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture28.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture28\" border=\"0\" alt=\"Capture28\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture28_thumb.jpg\" width=\"604\" height=\"599\"></a> </p>\n<p>The Configuration Schema defines what parameters this Monitor Type accepts. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture29.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture29\" border=\"0\" alt=\"Capture29\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture29_thumb.jpg\" width=\"604\" height=\"602\"></a> </p>\n<p>Step 3 – Create the Monitor.  The monitor is a custom monitor which uses the monitor type we just created.  It is also targeted to the SCCMMP class which we created in Part II of this series. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture30.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture30\" border=\"0\" alt=\"Capture30\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture30_thumb.jpg\" width=\"604\" height=\"604\"></a> </p>\n<p>The Configuration is how often we want to query the URL and the URL itself.  In this case we want the URL to be the registry value(s) that we discovered in the SCCMMP class.  This is how one monitor can be used to watch thousands of websites.  <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture31.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture31\" border=\"0\" alt=\"Capture31\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture31_thumb.jpg\" width=\"604\" height=\"576\"></a> </p>\n<p>We must tell the monitor which state means Critical and which means Healthy. <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture32.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture32\" border=\"0\" alt=\"Capture32\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture32_thumb.jpg\" width=\"604\" height=\"576\"></a> </p>\n<p>I set the example monitor to not alert but this can obviously be configured.  Also, in the final solution for my customer we sealed the data sources and monitor types and used a different MP for the classes, discoveries, relationships, and monitors.  </p>\n<p>To test out this solution the MP you just created can be imported and if the agent from Part II still exists the discovered inventory should look like this: <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture33.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture33\" border=\"0\" alt=\"Capture33\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture33_thumb.jpg\" width=\"604\" height=\"404\"></a> </p>\n<p>I don’t have a website with this name so it shows as critical.  This is what Health Explorer looks like: <br><a href=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture34.jpg\"><img style=\"BORDER-RIGHT-WIDTH:0px;DISPLAY:inline;BORDER-TOP-WIDTH:0px;BORDER-BOTTOM-WIDTH:0px;BORDER-LEFT-WIDTH:0px\" title=\"Capture34\" border=\"0\" alt=\"Capture34\" src=\"http://blogs.msdn.com/blogfiles/rslaten/WindowsLiveWriter/URLMonitoringPartIIITheMonitors_CB4A/Capture34_thumb.jpg\" width=\"604\" height=\"449\"></a> </p>\n<p>If you want to do some more testing add some real URLs to the SCCMMP registry key and add that key to some more watcher nodes.  Also, open the MP attached to Part I and look at the other classes and data sources to understand how the text parsing and response time solutions work.  </p>\n<p>If you have any questions about this series please let me know.</p><img src=\"http://blogs.msdn.com/aggbug.aspx?PostID=9823156\" width=\"1\" height=\"1\">"
+    },
+    "author" : "rslaten",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://blogs.msdn.com/rslaten/rss.xml",
+      "title" : "System Center Blog by Russ Slaten",
+      "htmlUrl" : "http://blogs.msdn.com/b/rslaten/"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1253270373670",
+    "timestampUsec" : "1253270373670104",
+    "id" : "tag:google.com,2005:reader/item/e664d986fe5c9e50",
+    "categories" : [ "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "user/04687667811817497376/state/com.google/tracking-item-link-used", "Comics" ],
+    "title" : "09.18.2009",
+    "published" : 1253232000,
+    "updated" : 1253232000,
+    "alternate" : [ {
+      "href" : "http://www.explosm.net/comics/1801/",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "New Cyanide and Happiness Comic.<p><iframe src=\"http://feedads.g.doubleclick.net/~ah/f/1vsk1hj7g3mscaeb0s67j5s658/468/60#http%3A%2F%2Fwww.explosm.net%2Fcomics%2F1801%2F\" width=\"100%\" height=\"60\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe></p>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://feeds.feedburner.com/Explosm",
+      "title" : "Explosm.net",
+      "htmlUrl" : "http://www.explosm.net"
+    }
+  } ]
+}

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Richard subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline title="SCOM" text="SCOM">
+            <outline text="Quae Nocent Docent"
+                title="Quae Nocent Docent" type="rss"
+                xmlUrl="http://nocentdocent.wordpress.com/feed/" htmlUrl="http://nocentdocent.wordpress.com"/>
+            <outline text="SCOM - Kevin Holman"
+                title="SCOM - Kevin Holman" type="rss"
+                xmlUrl="http://blogs.technet.com/kevinholman/rss.xml" htmlUrl="http://blogs.technet.com/b/kevinholman/"/>
+            <outline text="SCOM GOD" title="SCOM GOD" type="rss"
+                xmlUrl="http://www.scomgod.com/?feed=rss2" htmlUrl="http://www.scomgod.com"/>
+            <outline
+                text="Tao Yang's System Management BlogTao Yang's System Management Blog"
+                title="Tao Yang's System Management BlogTao Yang's System Management Blog"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/TaoYangsSystemManagementBlog" htmlUrl="http://blog.tyang.org"/>
+            <outline
+                text="The System Center Operations Manager Support Team Blog"
+                title="The System Center Operations Manager Support Team Blog"
+                type="rss"
+                xmlUrl="http://blogs.technet.com/operationsmgr/rss.xml" htmlUrl="http://blogs.technet.com/b/operationsmgr/"/>
+            <outline text="Thoughts on OpsMgr and System Center 2012"
+                title="Thoughts on OpsMgr and System Center 2012"
+                type="rss"
+                xmlUrl="http://thoughtsonopsmgr.blogspot.com/feeds/posts/default" htmlUrl="http://thoughtsonopsmgr.blogspot.com/"/>
+        </outline>
+        <outline title="Downloads" text="Downloads">
+            <outline text="FileHippo.com" title="FileHippo.com"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/filehippo" htmlUrl="http://www.filehippo.com/"/>
+        </outline>
+        <outline title="C#" text="C#">
+            <outline text=".NET 4.5 Latest Articles"
+                title=".NET 4.5 Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=237&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="C# Language Latest Articles"
+                title="C# Language Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=144&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="C# Tutorials Latest Articles"
+                title="C# Tutorials Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=168&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="Custom Controls C# Latest Articles"
+                title="Custom Controls C# Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=173&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="Games Programming C# Latest Articles"
+                title="Games Programming C# Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=65&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="Learn .NET Latest Articles"
+                title="Learn .NET Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=186&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="LINQ Latest Articles"
+                title="LINQ Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=180&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="Multithreading in C# Latest Articles"
+                title="Multithreading in C# Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=149&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="Reed Copsey, Jr." title="Reed Copsey, Jr."
+                type="rss"
+                xmlUrl="http://feeds2.feedburner.com/ReedCopsey" htmlUrl="http://reedcopsey.com"/>
+            <outline text="Visual Studio 2012 Latest Articles"
+                title="Visual Studio 2012 Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=281&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="WCF with C# Latest Articles"
+                title="WCF with C# Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=192&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+            <outline text="Web Services in C# Latest Articles"
+                title="Web Services in C# Latest Articles" type="rss"
+                xmlUrl="http://www.c-sharpcorner.com/rss/latestarticles.aspx?SubSectionId=133&amp;Type=articles" htmlUrl="http://www.c-sharpcorner.com/articles/"/>
+        </outline>
+        <outline title="Comics" text="Comics">
+            <outline text="AmazingSuperPowers"
+                title="AmazingSuperPowers" type="rss"
+                xmlUrl="http://www.amazingsuperpowers.com/category/comics/feed/" htmlUrl="http://www.amazingsuperpowers.com"/>
+            <outline text="basketcase" title="basketcase" type="rss"
+                xmlUrl="http://feeds.feedburner.com/BasketcaseComix" htmlUrl="http://www.basketcasecomix.com"/>
+            <outline text="Buttersafe (inline)"
+                title="Buttersafe (inline)" type="rss"
+                xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=22a693bd3326845a59474b926185ff0e&amp;_render=rss" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=22a693bd3326845a59474b926185ff0e"/>
+            <outline text="Ctrl+Alt+Del" title="Ctrl+Alt+Del" type="rss"
+                xmlUrl="http://www.cad-comic.com/rss/rss.xml" htmlUrl="http://www.cad-comic.com/"/>
+            <outline text="Omake Theater - おまけ劇場"
+                title="Omake Theater - おまけ劇場" type="rss"
+                xmlUrl="http://feeds.feedburner.com/omaketheater" htmlUrl="http://omaketheater.com"/>
+            <outline text="Spud" title="Spud" type="rss"
+                xmlUrl="http://spudcomics.com/feed/" htmlUrl="http://spudcomics.com"/>
+            <outline text="The Oatmeal - Comics, Quizzes, &amp; Stories"
+                title="The Oatmeal - Comics, Quizzes, &amp; Stories"
+                type="rss" xmlUrl="http://theoatmeal.com/feed/rss" htmlUrl="http://theoatmeal.com/"/>
+            <outline text="xkcd" title="xkcd" type="rss"
+                xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+        </outline>
+        <outline title="Blogs" text="Blogs">
+            <outline text="Blog - Richards Blog"
+                title="Blog - Richards Blog" type="rss"
+                xmlUrl="http://www.rn.co.za/html/?feed=rss2" htmlUrl="http://www.rn.co.za/html"/>
+            <outline text="MarcForrest.com" title="MarcForrest.com"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/MarcForrest" htmlUrl="http://www.marcforrest.com"/>
+        </outline>
+        <outline title="Web Dev" text="Web Dev">
+            <outline text="AddyOsmani.com | Articles for developers"
+                title="AddyOsmani.com | Articles for developers"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/addyosmani" htmlUrl="http://addyosmani.com/blog"/>
+            <outline
+                text="David Walsh :: Legendary scribbles about JavaScript, HTML5, AJAX, PHP, CSS, and ∞."
+                title="David Walsh :: Legendary scribbles about JavaScript, HTML5, AJAX, PHP, CSS, and ∞."
+                type="rss" xmlUrl="http://feeds2.feedburner.com/Bludice" htmlUrl="http://davidwalsh.name"/>
+            <outline text="Feross.org" title="Feross.org" type="rss"
+                xmlUrl="http://feeds.feedburner.com/feross" htmlUrl="http://feross.org"/>
+            <outline text="LukeW | Digital Product Design + Strategy"
+                title="LukeW | Digital Product Design + Strategy"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/FunctioningForm" htmlUrl="http://www.lukew.com"/>
+            <outline text="Nettuts+" title="Nettuts+" type="rss"
+                xmlUrl="http://feeds.feedburner.com/nettuts" htmlUrl="http://net.tutsplus.com"/>
+            <outline text="Official jQuery Blog"
+                title="Official jQuery Blog" type="rss"
+                xmlUrl="http://blog.jquery.com/feed/" htmlUrl="http://blog.jquery.com"/>
+            <outline text="Web Developer Juice"
+                title="Web Developer Juice" type="rss"
+                xmlUrl="http://feeds.feedburner.com/WebDeveloperJuice" htmlUrl="http://www.webdeveloperjuice.com"/>
+        </outline>
+    </body>
+</opml>

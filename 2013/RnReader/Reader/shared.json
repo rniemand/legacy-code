@@ -1,0 +1,261 @@
+{
+  "id" : "user/04687667811817497376/state/com.google/broadcast",
+  "title" : "Richard's shared items in Google Reader",
+  "author" : "Richard",
+  "updated" : 1319398990,
+  "direction" : "ltr",
+  "items" : [ {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1319398990770",
+    "timestampUsec" : "1319398990770548",
+    "id" : "tag:google.com,2005:reader/item/16ef8ce66fdd060c",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/state/com.google/read" ],
+    "title" : "Dude – unseal my MP!",
+    "published" : 1319204136,
+    "updated" : 1319204136,
+    "alternate" : [ {
+      "href" : "http://blogs.technet.com/b/kevinholman/archive/2011/10/21/dude-unseal-my-mp.aspx",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "<p><a href=\"http://blogs.technet.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-59-10-metablogapi/4617.image_5F00_74270484.png\"><img style=\"background-image:none;border-bottom:0px;border-left:0px;padding-left:0px;padding-right:0px;display:inline;float:left;border-top:0px;border-right:0px;padding-top:0px\" title=\"image\" border=\"0\" alt=\"image\" align=\"left\" src=\"http://blogs.technet.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-59-10-metablogapi/5280.image_5F00_thumb_5F00_727638B0.png\" width=\"235\" height=\"349\"></a></p>  <p> </p>  <p>Tim McFadden of Microsoft PFE has done it again.  He continually writes handy tools and solutions to help the OpsMgr admin.  His <a href=\"http://www.scom2k7.com/scom-remote-maintenance-mode-scheduler-20/\">Scheduled Maintenance Mode solution</a> is wildly famous.  His latest tool published is something I will use all the time:</p>  <p> </p>  <p><a title=\"http://www.scom2k7.com/mp2xmlpro-management-pack-conversion-tool/\" href=\"http://www.scom2k7.com/mp2xmlpro-management-pack-conversion-tool/\">http://www.scom2k7.com/mp2xmlpro-management-pack-conversion-tool/</a></p>  <p> </p>  <p>MP2XMLPRO is a GUI tool which makes unsealing an MP super easy.  Now, many SCOM admins never need to unseal an MP…. but if you ever want to run a DIFF against an old MP to a new MP, or crack open MP’s so you can troubleshooting a datasource or a script, or bulk dump a big list of MP’s, this tool does it all.</p>  <p>It runs in three modes:</p>  <p><strong><em>Unseal a single MP file</em></strong></p>  <p><strong><em>Unseal all MP’s in a directory</em></strong></p>  <p><strong><em>Connect to a RMS and unseal\\export all MP’s to a directory.</em></strong></p><div style=\"clear:both\"></div><img src=\"http://blogs.technet.com/aggbug.aspx?PostID=3460671\" width=\"1\" height=\"1\">"
+    },
+    "author" : "Kevin Holman",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://blogs.technet.com/kevinholman/rss.xml",
+      "title" : "Kevin Holman&#39;s System Center Blog",
+      "htmlUrl" : "http://blogs.technet.com/b/kevinholman/"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1317986256128",
+    "timestampUsec" : "1317986256128493",
+    "id" : "tag:google.com,2005:reader/item/bf9c121285fe4be9",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/syndication/source/s:youtube", "user/04687667811817497376/state/com.google/read" ],
+    "title" : "Awesome 4chan gif mix (Gif addiction vol. 3)",
+    "published" : 1317986256,
+    "updated" : 1317986256,
+    "alternate" : [ {
+      "href" : "http://www.youtube.com/watch?v=2TM98b5mrdc&feature=autoshare",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<div><iframe width=\"480\" height=\"360\" src=\"http://www.youtube.com/embed/2TM98b5mrdc?fs=1\" frameborder=\"0\"></iframe></div><div style=\"padding-top:3px\">I liked a YouTube video: Awesome 4chan gif mix\r\nCheck my other videos!</div>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "user/04687667811817497376/syndication/source/s:youtube",
+      "title" : "niemandrichard&#39;s YouTube Activity",
+      "htmlUrl" : "http://www.youtube.com/user/niemandrichard"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1317383315237",
+    "timestampUsec" : "1317383315237245",
+    "id" : "tag:google.com,2005:reader/item/1d3a5dc9fa3e4f98",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/syndication/source/s:youtube", "user/04687667811817497376/state/com.google/read" ],
+    "title" : "The Propeller Clock - Final Version",
+    "published" : 1317383315,
+    "updated" : 1317383315,
+    "alternate" : [ {
+      "href" : "http://www.youtube.com/watch?v=no2_M_b059g&feature=autoshare",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<div><iframe width=\"480\" height=\"360\" src=\"http://www.youtube.com/embed/no2_M_b059g?fs=1\" frameborder=\"0\"></iframe></div><div style=\"padding-top:3px\">I favorited a YouTube video: Want to buy? http://propclock.glt.pl \r\n\r\nThe final version of my propeller clock. See more: http://www.elektroda.pl/rtvforum/topic944484.html</div>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "user/04687667811817497376/syndication/source/s:youtube",
+      "title" : "niemandrichard&#39;s YouTube Activity",
+      "htmlUrl" : "http://www.youtube.com/user/niemandrichard"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1317383312904",
+    "timestampUsec" : "1317383312904176",
+    "id" : "tag:google.com,2005:reader/item/e1b491db5ff27c07",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/syndication/source/s:youtube", "user/04687667811817497376/state/com.google/read" ],
+    "title" : "The Propeller Clock - Final Version",
+    "published" : 1317383312,
+    "updated" : 1317383312,
+    "alternate" : [ {
+      "href" : "http://www.youtube.com/watch?v=no2_M_b059g&feature=autoshare",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<div><iframe width=\"480\" height=\"360\" src=\"http://www.youtube.com/embed/no2_M_b059g?fs=1\" frameborder=\"0\"></iframe></div><div style=\"padding-top:3px\">I liked a YouTube video: Want to buy? http://propclock.glt.pl \r\n\r\nThe final version of my propeller clock. See more: http://www.elektroda.pl/rtvforum/topic944484.html</div>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "user/04687667811817497376/syndication/source/s:youtube",
+      "title" : "niemandrichard&#39;s YouTube Activity",
+      "htmlUrl" : "http://www.youtube.com/user/niemandrichard"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1316457127613",
+    "timestampUsec" : "1316457127613179",
+    "id" : "tag:google.com,2005:reader/item/d889aa3af06f0520",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/syndication/source/s:youtube", "user/04687667811817497376/state/com.google/read" ],
+    "title" : "Kid Rock live @ Gaylord - F***ing 40 (2nd half)",
+    "published" : 1316457127,
+    "updated" : 1316457127,
+    "alternate" : [ {
+      "href" : "http://www.youtube.com/watch?v=VkUK7yL5Nx0&feature=autoshare",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<div><iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/VkUK7yL5Nx0?fs=1\" frameborder=\"0\"></iframe></div><div style=\"padding-top:3px\">I commented on a YouTube video: Keep the camera still next time :) was a awesome song though</div>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "user/04687667811817497376/syndication/source/s:youtube",
+      "title" : "niemandrichard&#39;s YouTube Activity",
+      "htmlUrl" : "http://www.youtube.com/user/niemandrichard"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1267909151126",
+    "timestampUsec" : "1267909151126272",
+    "id" : "tag:google.com,2005:reader/item/8138baec468bbb3a",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/state/com.google/read", "user/04687667811817497376/state/com.google/tracking-item-link-used", "Javascript", "XML / XHTML" ],
+    "title" : "Remove Broken Images Using Dojo",
+    "published" : 1267536167,
+    "updated" : 1267536167,
+    "replies" : [ {
+      "href" : "http://davidwalsh.name/remove-images-dojo#comments",
+      "type" : "text/html"
+    }, {
+      "href" : "http://davidwalsh.name/remove-images-dojo/feed/atom",
+      "type" : "application/atom+xml"
+    } ],
+    "canonical" : [ {
+      "href" : "http://davidwalsh.name/remove-images-dojo"
+    } ],
+    "alternate" : [ {
+      "href" : "http://feedproxy.google.com/~r/Bludice/~3/T-RyuXs-aNw/remove-images-dojo",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p>In an effort to get better with the Dojo Toolkit, I’ve decided to port yet another one of my previous posts: <a href=\"http://davidwalsh.name/remove-broken-images\">Remove Broken Images Using MooTools or jQuery</a>.  Broken images are an eyesore to any website so there’s no point to keeping them in the page.  Here’s how you can remove them on the client side.</p><h2>The Dojo Javascript</h2><pre>\ndojo.ready(function() {\n\tdojo.query('img').forEach(function(img){\n\t\tdojo.connect(img,'onerror',function() {\n\t\t\tdojo.destroy(img);\n\t\t});\n\t});\n});\n</pre><p>Just as simple as jQuery and MooTools — just a different syntax!</p><p>Don't forget to <a href=\"http://twitter.com/davidwalshblog\">follow me on Twitter</a> and be sure to visit <a href=\"http://scriptandstyle.com\">Script &amp; Style</a> for the best Javascript and CSS articles around!<a href=\"http://buysellads.com/buy/detail/1687\">Sponsor the David Walsh Blog</a> and get your brand in front of several thousand users per day!<br><br><a href=\"http://davidwalsh.name/remove-images-dojo\">Remove Broken Images Using Dojo</a></p><p>Related posts:<ol><li><a href=\"http://davidwalsh.name/remove-broken-images\" rel=\"bookmark\" title=\"Permanent Link: Remove Broken Images Using MooTools or jQuery\">Remove Broken Images Using MooTools or jQuery</a></li><li><a href=\"http://davidwalsh.name/email-image-error-mootools\" rel=\"bookmark\" title=\"Permanent Link: Send Email Notifications for Broken Images Using MooTools Ajax\">Send Email Notifications for Broken Images Using MooTools Ajax</a></li><li><a href=\"http://davidwalsh.name/broken-images-jquery-ajax\" rel=\"bookmark\" title=\"Permanent Link: Send Email Notifications for Broken Images Using jQuery Ajax\">Send Email Notifications for Broken Images Using jQuery Ajax</a></li><li><a href=\"http://davidwalsh.name/link-nudging-dojo\" rel=\"bookmark\" title=\"Permanent Link: Link Nudging Using Dojo\">Link Nudging Using Dojo</a></li><li><a href=\"http://davidwalsh.name/quickboxes-dojo\" rel=\"bookmark\" title=\"Permanent Link: QuickBoxes for Dojo\">QuickBoxes for Dojo</a></li></ol></p><img src=\"http://feeds.feedburner.com/~r/Bludice/~4/T-RyuXs-aNw\" height=\"1\" width=\"1\">"
+    },
+    "author" : "David Walsh",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://feeds.feedburner.com/Bludice",
+      "title" : "David Walsh Blog",
+      "htmlUrl" : "http://davidwalsh.name"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1267909150506",
+    "timestampUsec" : "1267909150506841",
+    "id" : "tag:google.com,2005:reader/item/7b691e073a47b46b",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/state/com.google/read" ],
+    "title" : "Collatz Conjecture",
+    "published" : 1267765200,
+    "updated" : 1267765200,
+    "alternate" : [ {
+      "href" : "http://xkcd.com/710/",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "<img src=\"http://imgs.xkcd.com/comics/collatz_conjecture.png\" title=\"The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules.\" alt=\"The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules.\">"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://xkcd.com/rss.xml",
+      "title" : "xkcd.com",
+      "htmlUrl" : "http://xkcd.com/"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1267909149438",
+    "timestampUsec" : "1267909149438090",
+    "id" : "tag:google.com,2005:reader/item/7165e4c80269234b",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/state/com.google/read", "Comics", "Batman", "car", "economy" ],
+    "title" : "The Compact Crusader",
+    "published" : 1267768800,
+    "updated" : 1267768800,
+    "alternate" : [ {
+      "href" : "http://spudcomics.com/2010/03/05/the-compact-crusader/",
+      "type" : "text/html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<p><a href=\"http://spudcomics.com/2010/03/05/the-compact-crusader/\"><img src=\"http://spudcomics.com/comics/2010-03-05-batman.png\" border=\"0\" alt=\"Comic\"></a></p>"
+    },
+    "author" : "admin",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://spudcomics.com/feed/",
+      "title" : "Spud Comics",
+      "htmlUrl" : "http://spudcomics.com"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1259144476008",
+    "timestampUsec" : "1259144476008042",
+    "id" : "tag:google.com,2005:reader/item/35a4504bbf0a00fe",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read", "user/04687667811817497376/state/com.google/tracking-item-link-used", "Comics" ],
+    "title" : "11.25.2009",
+    "published" : 1259107200,
+    "updated" : 1259107200,
+    "alternate" : [ {
+      "href" : "http://www.explosm.net/comics/1869/",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "New Cyanide and Happiness Comic.<p><iframe src=\"http://feedads.g.doubleclick.net/~ah/f/1vsk1hj7g3mscaeb0s67j5s658/468/60#http%3A%2F%2Fwww.explosm.net%2Fcomics%2F1869%2F\" width=\"100%\" height=\"60\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe></p>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://feeds.feedburner.com/Explosm",
+      "title" : "Explosm.net",
+      "htmlUrl" : "http://www.explosm.net"
+    }
+  }, {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1259144452957",
+    "timestampUsec" : "1259144452957655",
+    "id" : "tag:google.com,2005:reader/item/9cd0335aaffb978c",
+    "categories" : [ "user/04687667811817497376/state/com.google/broadcast", "user/04687667811817497376/state/com.google/like", "user/04687667811817497376/state/com.google/read" ],
+    "title" : "SkiFree",
+    "published" : 1259125200,
+    "updated" : 1259125200,
+    "alternate" : [ {
+      "href" : "http://xkcd.com/667/",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "<img src=\"http://imgs.xkcd.com/comics/skifree.png\" title=\"And from that day on, I wore this little &#39;F&#39; key pendant everywhere I went.\" alt=\"And from that day on, I wore this little &#39;F&#39; key pendant everywhere I went.\">"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://xkcd.com/rss.xml",
+      "title" : "xkcd.com",
+      "htmlUrl" : "http://xkcd.com/"
+    }
+  } ]
+}

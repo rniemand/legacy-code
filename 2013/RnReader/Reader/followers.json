@@ -1,0 +1,174 @@
+{
+  "friends" : [ {
+    "userIds" : [ "10837834014063177203" ],
+    "profileIds" : [ "118123845826952246377" ],
+    "contactId" : "4201359772486276756",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECOnovPuVuLXC-wEiC3ZjYXJkX3Bob3RvKigxZWM2YjczNTFhNTdhYjA0OWM2ZDk5NWY4OWZkOWRhNTI2NDdmYmExMAE505OPABP-bZ2ylMPOaeACUBbAKQ",
+    "stream" : "user/10837834014063177203/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 0, 3 ],
+    "displayName" : "Vaughan Marais",
+    "givenName" : "Vaughan",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "6019780824587756203" ],
+    "websites" : [ {
+      "title" : "Vaughan Marais",
+      "url" : "http://www.youtube.com/user/vorncoza"
+    }, {
+      "title" : "Buzz",
+      "url" : "https://profiles.google.com/118123845826952246377/buzz"
+    } ]
+  }, {
+    "userIds" : [ "11845643843041578489" ],
+    "profileIds" : [ "103564984384845477804" ],
+    "contactId" : "7203043144227971270",
+    "stream" : "user/11845643843041578489/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 0, 3 ],
+    "displayName" : "Simon Mc Gibbon",
+    "givenName" : "Simon",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "6019780824587756203", "2" ],
+    "websites" : [ {
+      "title" : "Simon Mc Gibbon",
+      "url" : "http://www.youtube.com/channel/UCr-7Wg7idiWqKWzPgZsrguA"
+    } ]
+  }, {
+    "userIds" : [ "15423061397302852134" ],
+    "profileIds" : [ "111699381957919854153" ],
+    "contactId" : "8798035307556728222",
+    "location" : "Durban",
+    "stream" : "user/15423061397302852134/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 0, 3 ],
+    "displayName" : "Gary Clark",
+    "givenName" : "Gary",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "6019780824587756203", "2" ]
+  }, {
+    "userIds" : [ "07122529653807469501" ],
+    "profileIds" : [ "113141242014193048396" ],
+    "contactId" : "607366901278766430",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECMy2qZvJv8SvtgEiC3ZjYXJkX3Bob3RvKig1NTViMGUzMGRjYTcxYTc1NTY4OGZlMzFmNDNkZDg0NTBkNTU1MjJlMAGh6lQVOKKSYWTvo0up1BjTzTksaA",
+    "location" : "Cape Town",
+    "stream" : "user/07122529653807469501/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 0, 3 ],
+    "displayName" : "Dijon Correia",
+    "givenName" : "Dijon",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "6019780824587756203", "2" ],
+    "occupation" : "Web Developer",
+    "websites" : [ {
+      "title" : "Buzz",
+      "url" : "https://profiles.google.com/113141242014193048396/buzz"
+    }, {
+      "title" : "dijoncorreia",
+      "url" : "http://twitter.com/dijoncorreia"
+    } ]
+  }, {
+    "userIds" : [ "04687667811817497376", "04137403600087726482", "13151220461653164905" ],
+    "profileIds" : [ "111184378817367767624", "113393071114972500700", "108973500394389294355" ],
+    "contactId" : "7025211112157108843",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECMj079TuqLmbmwEiC3ZjYXJkX3Bob3RvKihlZjg3YzkyNDA5YjI0MjgxYzliYmY3ZTZiZTIxYjc2ZTZjNTUzZDY2MAHXGDRIq26-rphcH5si7tVoyCbI2g",
+    "stream" : "user/04687667811817497376/state/com.google/broadcast",
+    "flags" : 33,
+    "types" : [ 3 ],
+    "displayName" : "Richard Niemand",
+    "givenName" : "Richard",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "6019780824587756203", "2" ],
+    "occupation" : "Work for the man",
+    "websites" : [ {
+      "title" : "Buzz",
+      "url" : "https://profiles.google.com/111184378817367767624/buzz"
+    }, {
+      "title" : "Richard Niemand",
+      "url" : "http://www.youtube.com/user/niemandrichard"
+    } ],
+    "hasSharedItemsOnProfile" : false
+  }, {
+    "userIds" : [ "14992253327723380112" ],
+    "profileIds" : [ "113042679505131820487" ],
+    "contactId" : "2588676548716123508",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECMermbWC_bmAtQEiC3ZjYXJkX3Bob3RvKihhOGJiODBiM2EzZjgzNjczNWYxZTJjMDAwNzcxM2Y2Yjg0NzYwZDk1MAGP3195h7v16dQeC0Lq3DvvYfWcUg",
+    "stream" : "user/14992253327723380112/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 0, 3, 4, 6, 7 ],
+    "displayName" : "Aaron James",
+    "givenName" : "Aaron",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "18", "6019780824587756203", "2" ]
+  }, {
+    "userIds" : [ "04790285108817888497" ],
+    "profileIds" : [ "109679520435945369381" ],
+    "contactId" : "8831119612428030673",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECKXeoeXVkaSqhgEiC3ZjYXJkX3Bob3RvKig5ZGYwNDIyNjA3OTNjNTJmNWU4M2U4YTc4ZjhmNjA1NmExNGIyYTcxMAF-SB1UkBKX4rIJPYbBUcpR3MmU3Q",
+    "location" : "Brick, NJ",
+    "stream" : "user/04790285108817888497/state/com.google/broadcast",
+    "flags" : 96,
+    "types" : [ 0, 3 ],
+    "displayName" : "Gareth Tiedt",
+    "givenName" : "Gareth",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "6019780824587756203" ],
+    "occupation" : "Travel Consultant at Flight Centre - Kempton Park",
+    "websites" : [ {
+      "title" : "Buzz",
+      "url" : "https://profiles.google.com/109679520435945369381/buzz"
+    } ]
+  }, {
+    "userIds" : [ "11402105775369250489" ],
+    "profileIds" : [ "107386392829884787050" ],
+    "contactId" : "6671282371491994765",
+    "stream" : "user/11402105775369250489/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 0, 3 ],
+    "displayName" : "Michael Griffiths",
+    "givenName" : "Michael",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "6019780824587756203" ]
+  }, {
+    "userIds" : [ "09811251739496511499" ],
+    "profileIds" : [ "100837882546131151407" ],
+    "contactId" : "-1",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABDCK_Ulq3It7DQCyILdmNhcmRfcGhvdG8qKDAyYTkxMTNiMTVmNGE1NTg1MDM4NmU5YjU3OTU5YTNmYjNkNGRhODUwARPtFWY-WLQiIq6F3AkKH1iv4cGS",
+    "location" : "Margate south africa",
+    "stream" : "user/09811251739496511499/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 0 ],
+    "displayName" : "Travis Britnor",
+    "givenName" : "Travis",
+    "n" : "",
+    "p" : "",
+    "occupation" : "Work for an Engineering Company and do Photography part time",
+    "websites" : [ {
+      "title" : "Britnor Photography",
+      "url" : "http://www.britnorphotography.com/"
+    } ]
+  }, {
+    "userIds" : [ "04528791095637600142" ],
+    "profileIds" : [ "102687798508491441854" ],
+    "contactId" : "-1",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABDCL6N1POL0L6mJSILdmNhcmRfcGhvdG8qKGFlNzUzOTc5YjA0Y2Q0ZGZhZjY3N2NlOTNmYjZhYzZjOTYyOTVjZDkwATmQrTse1Y9OFjLVPg7AMmT2WMze",
+    "stream" : "user/04528791095637600142/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 0 ],
+    "displayName" : "bonginkosi Mabaso",
+    "givenName" : "bonginkosi",
+    "n" : "",
+    "p" : "",
+    "websites" : [ {
+      "title" : "Buzz",
+      "url" : "https://profiles.google.com/102687798508491441854/buzz"
+    } ]
+  } ]
+}

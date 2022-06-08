@@ -1,0 +1,38 @@
+{
+  "friends" : [ {
+    "userIds" : [ "04687667811817497376", "04137403600087726482", "13151220461653164905" ],
+    "profileIds" : [ "111184378817367767624", "113393071114972500700", "108973500394389294355" ],
+    "contactId" : "7025211112157108843",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECMj079TuqLmbmwEiC3ZjYXJkX3Bob3RvKihlZjg3YzkyNDA5YjI0MjgxYzliYmY3ZTZiZTIxYjc2ZTZjNTUzZDY2MAHXGDRIq26-rphcH5si7tVoyCbI2g",
+    "stream" : "user/04687667811817497376/state/com.google/broadcast",
+    "flags" : 33,
+    "types" : [ 3 ],
+    "displayName" : "Richard Niemand",
+    "givenName" : "Richard",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "6019780824587756203", "2" ],
+    "occupation" : "Work for the man",
+    "websites" : [ {
+      "title" : "Buzz",
+      "url" : "https://profiles.google.com/111184378817367767624/buzz"
+    }, {
+      "title" : "Richard Niemand",
+      "url" : "http://www.youtube.com/user/niemandrichard"
+    } ],
+    "hasSharedItemsOnProfile" : false
+  }, {
+    "userIds" : [ "14992253327723380112" ],
+    "profileIds" : [ "113042679505131820487" ],
+    "contactId" : "2588676548716123508",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECMermbWC_bmAtQEiC3ZjYXJkX3Bob3RvKihhOGJiODBiM2EzZjgzNjczNWYxZTJjMDAwNzcxM2Y2Yjg0NzYwZDk1MAGP3195h7v16dQeC0Lq3DvvYfWcUg",
+    "stream" : "user/14992253327723380112/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 0, 3, 4, 6, 7 ],
+    "displayName" : "Aaron James",
+    "givenName" : "Aaron",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "18", "6019780824587756203", "2" ]
+  } ]
+}
