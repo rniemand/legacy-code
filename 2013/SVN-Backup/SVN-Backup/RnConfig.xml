@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnConfig>
+  
+  <!-- Holder for each SVN action setting -->
+  <RnSvnConfigs>
+    <RnSvnConfig Name="Live">
+      <Key Name="SvnURI"><![CDATA[]]></Key>
+      <Key Name="DirCheckout"><![CDATA[]]></Key>
+      <Key Name="DirExport"><![CDATA[]]></Key>
+      <Key Name="ZipFileName"><![CDATA[]]></Key>
+      <Key Name="ZipEnabled"><![CDATA[]]></Key>
+    </RnSvnConfig>
+    <RnSvnConfig Name="Dev">
+      <Key Name="SvnURI"><![CDATA[svn://192.168.0.5/code/]]></Key>
+      <Key Name="DirCheckout"><![CDATA[c:\zz-01-checkout\]]></Key>
+      <Key Name="DirExport"><![CDATA[c:\zz-02-export\]]></Key>
+      <Key Name="ZipFileName"><![CDATA[\\192.168.0.5\m$\SVN-Snapshots\{0}]]></Key>
+      <Key Name="ZipEnabled"><![CDATA[true]]></Key>
+    </RnSvnConfig>
+  </RnSvnConfigs>
+  
+</RnConfig>
