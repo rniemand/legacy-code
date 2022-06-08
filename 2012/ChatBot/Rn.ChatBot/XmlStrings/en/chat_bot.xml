@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rn.Core.Locale>
+  <LocaleInfo>
+    <Key Name="Language" Value="English (SA)" Type="string" />
+    <Key Name="Version" Value="1.0.0.0" Type="version" />
+    <Key Name="Language.Short" Value="en" Type="string" />
+    <Key Name="Language.Author" Value="Richard Niemand" Type="string" />
+    <Key Name="Language.Author.Email" Value="niemand.richard@gmail.com" Type="email" />
+    <Key Name="Language.Author.URL" Value="http://richards-blog.com/html/" Type="url" />
+  </LocaleInfo>
+
+  <StringResources>
+    <String Name="0001" EventID="4001" Severity="debug" Enabled="true" Value="Created the default XmppClientConnection object" />
+    <String Name="0002" EventID="4002" Severity="info" Enabled="true" Value="Successfully logged into '{0}' as the user '{1}'" />
+    <String Name="0003" EventID="4003" Severity="error" Enabled="true" Value="There are no configured chat accounts" />
+    <String Name="0004" EventID="4004" Severity="error" Enabled="true" Value="The plugin dir '{0}' does not exist" />
+    <String Name="0005" EventID="4005" Severity="error" Enabled="true" Value="No plugins found in configured plugin dir '{0}'" />
+    <String Name="0006" EventID="4006" Severity="debug" Enabled="true" Value="Completed loading plugins" />
+    <String Name="0007" EventID="4007" Severity="debug" Enabled="true" Value="Successfully loaded a new instance of the '{0} ({1})' plugin. (Namespace: {2}) (Assembly: {3})" />
+    <String Name="0008" EventID="4008" Severity="debug" Enabled="true" Value="Registering callback. (Plugin: {0}) (Function: {2}) (Rx: {1})" />
+    <String Name="0009" EventID="4009" Severity="error" Enabled="true" Value="Could not find the plugin '{0}' as per registered callback" />
+    <String Name="0010" EventID="4010" Severity="debug" Enabled="true" Value="There was no callback found for the message '{0}' from '{1}'" />
+  </StringResources>
+</Rn.Core.Locale>

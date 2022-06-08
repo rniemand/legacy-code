@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ChatConfig>
+  <Locale Short="en" Directory="./XmlStrings" />
+
+  <ConfigKeys>
+    <Key Name="Messages.Log.Incomming" Value="true" Type="bool" />
+    <Key Name="Messages.Log.Outgoing" Value="true" Type="bool" />
+  </ConfigKeys>
+
+  <ChatAccounts>
+    <Account Enabled="true" Name="Test Account" Server="gmail.com" UserName="sniperbob123" UserPass="password1234$" />
+  </ChatAccounts>
+
+  <Loggers>
+    <Logger Enabled="true" Type="LogFile" Severity="debug" Name="Test" Keep="10" Roll="10" File="c:\Rn.Core\ChatBot\Development.log" />
+  </Loggers>
+  
+</ChatConfig>
