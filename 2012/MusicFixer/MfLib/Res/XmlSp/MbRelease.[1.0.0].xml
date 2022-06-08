@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XmlSp>
+  <!-- Procedures Here -->
+  <Procedures>
+    <SP Name="insert_release" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[
+    INSERT INTO tb_releases
+      (releaseDate, releaseId, releaseStatus, releaseQuality, releaseLang, releaseScript, releaseCountry, releaseBarcode, releaseTitle, artistId)
+    VALUES
+      ('{0}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{9}')
+    ]]>
+    </SP>
+    
+    <SP Name="check_for_release" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[select rowId as 'DbRowId' from tb_releases where releaseId = '{0}']]>
+    </SP>
+    
+    <SP Name="update_release" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[
+      Update tb_releases
+      set
+         releaseDate = '{0}',   
+         tbDateUpdated = datetime(),   
+         releaseStatus = '{1}',
+         releaseQuality = '{2}',   
+         releaseLang = '{3}',   
+         releaseScript = '{4}',   
+         releaseCountry = '{5}',
+         releaseBarcode = '{6}',   
+         releaseTitle = '{7}'
+      where
+           rowId = '{8}'
+      ]]>
+    </SP>
+
+    <SP Name="get_release" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[
+      select *, rowId as 'DbRowId' from tb_releases a where a.releaseId = '{0}'
+      ]]>
+    </SP>
+
+    <SP Name="get_recordings" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[select *, rowId as 'DbRowId' from tb_recordings where releaseId = '{0}' order by recTrackNo asc]]>
+    </SP>
+
+    <SP Name="getRelease_Aid_Title" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[SELECT *, rowId as 'DbRowId'
+      FROM tb_releases
+      WHERE artistId = '{0}'
+      AND releaseTitle like '%{1}%']]>
+    </SP>
+  </Procedures>
+</XmlSp>

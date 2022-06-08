@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnLocale>
+  <Information>
+    
+  </Information>
+  <Strings>
+    <String Name="rn.0001" EventId="1" Enabled="true" Severity="warning" Message="The configuration file '{0}' could not be found" />
+    <String Name="rn.0002" EventId="2" Enabled="true" Severity="debug" Message="The RnConfiguration file '{0}' was loaded successfully" />
+    <String Name="rn.0003" EventId="3" Enabled="true" Severity="debug" Message="There are no loggers defined in the config file '{0}'" />
+    <String Name="rn.0004" EventId="4" Enabled="true" Severity="warning" Message="A configuration file with the name '{0}' already exists. (File Path: {1})" />
+    <String Name="rn.0005" EventId="5" Enabled="true" Severity="debug" Message="Successfully registered a new config file '{0}' (Name: {1})" />
+    <String Name="rn.0006" EventId="6" Enabled="true" Severity="warning" Message="Unable to create the logging directory '{0}'" />
+    <String Name="rn.0007" EventId="7" Enabled="true" Severity="warning" Message="There is no logger override implimented for this method" />
+    <String Name="rn.0008" EventId="8" Enabled="true" Severity="warning" Message="Unknown logger type '{0}'" />
+    <String Name="rn.0009" EventId="9" Enabled="true" Severity="warning" Message="There is already a logger of type '{0}' with the name '{1}' defined" />
+  </Strings>
+</RnLocale>

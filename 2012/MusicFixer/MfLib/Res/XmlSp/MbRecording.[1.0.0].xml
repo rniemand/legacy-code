@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XmlSp>
+  <!-- Procedures Here -->
+  <Procedures>
+    <SP Name="save_recording" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[insert into tb_recordings
+       (recTrackNo, recLength, recId, releaseId, artistId, recTitle)
+      values
+      ({0}, {1}, '{2}', '{3}', '{4}', '{5}')]]>
+    </SP>
+
+    <SP Name="look_for_recording" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[SELECT rowId as 'DbRowId' FROM tb_recordings WHERE recId = '{0}']]>
+    </SP>
+
+    <SP Name="update_recording" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[update tb_recordings
+        set
+              recTrackNo = '{0}',      
+              recLength = '{1}',      
+              releaseId = '{2}',      
+              artistId = '{3}',      
+              recTitle = '{4}'      
+        where
+     recId = '{5}']]>
+    </SP>
+  </Procedures>
+</XmlSp>

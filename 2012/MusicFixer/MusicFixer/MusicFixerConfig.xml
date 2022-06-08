@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MusicFixer>
+  <Loggers>
+    <Logger
+      Type="LogFile" Name="default" Enabled="true" Severity="debug"
+      Location="./Logs/MyLog.log" MaxSize="10" KeepLogs="true" KeepCount="1"
+      />
+  </Loggers>
+</MusicFixer>

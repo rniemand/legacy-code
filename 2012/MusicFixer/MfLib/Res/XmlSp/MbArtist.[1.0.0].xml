@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XmlSp>
+  <!-- Procedures Here -->
+  <Procedures>
+    <SP Name="get_releases" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[select RowId as 'DbRowId', * from tb_releases where artistId = '{0}']]>
+    </SP>
+
+    <SP Name="get_artist" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[select *, RowId as 'DbRowId' from tb_artists where artistId = '{0}']]>
+    </SP>
+
+    <SP Name="get_artist_dbrowid" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[select RowId as 'DbRowId' from tb_artists where artistId = '{0}']]>
+    </SP>
+
+    <SP Name="save_artist" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[INSERT INTO tb_artists
+                   (artistType, artistId, artistName, artistSortName, artistCountry)
+                VALUES
+                  ('{0}', '{1}', '{2}', '{3}', '{4}')]]>
+    </SP>
+
+    <SP Name="update_artis" Version="" DateAdded="" AddedBy="" HitCount="0">
+      <![CDATA[UPDATE tb_artists
+      SET
+         artistType = '{0}',   
+         artistName = '{1}',   
+         artistSortName = '{2}',
+         artistCountry = '{3}'
+      WHERE
+       artistId = '{4}']]>
+    </SP>
+  </Procedures>
+</XmlSp>

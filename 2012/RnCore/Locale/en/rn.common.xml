@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnLocale>
+  <Information>
+    
+  </Information>
+  <Strings>
+    <String Name="common.001" EventId="1001" Enabled="true" Severity="error" Message="Exception thrown: {0}" />
+    <String Name="common.002" EventId="1002" Enabled="true" Severity="warning" Message="The file '{0}' already exists" />
+    <String Name="common.003" EventId="1003" Enabled="true" Severity="warning" Message="The file '{0}' could not be found" />
+    <String Name="common.004" EventId="1004" Enabled="true" Severity="warning" Message="The file '{0}' has been deleted" />
+    <String Name="common.005" EventId="1005" Enabled="true" Severity="warning" Message="The file '{0}' cannot be replaced" />
+    <String Name="common.006" EventId="1006" Enabled="true" Severity="debug" Message="Attempting to get the contents of the URL '{0}'" />
+  </Strings>
+</RnLocale>

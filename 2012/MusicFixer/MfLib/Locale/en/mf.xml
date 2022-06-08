@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnLocale>
+  <Information>
+    
+  </Information>
+  <Strings>
+    <String Name="mf.0001" EventId="5001" Enabled="true" Severity="info" Message="No data was returned while searching for artist '{0}' ({1})" />
+    <String Name="mf.0002" EventId="5002" Enabled="true" Severity="debug" Message="Unknown Artist Type '{0}'" />
+    <String Name="mf.0003" EventId="5003" Enabled="true" Severity="error" Message="Cannot find the DB integrity file '{0}', please ensure that it exists!" />
+    <String Name="mf.0004" EventId="5004" Enabled="true" Severity="debug" Message="DB Integrity check has been completed" />
+    <String Name="mf.0005" EventId="5005" Enabled="true" Severity="warning" Message="Unknown {0} '{1}'" />
+    <String Name="mf.0006" EventId="5006" Enabled="true" Severity="debug" Message="Successfully created a new instance of 'XmlSp' (Name: {0}) (Version: {1})" />
+    <String Name="mf.0007" EventId="5007" Enabled="true" Severity="warning" Message="Could not find an artist matching '{0}'" />
+    <String Name="mf.0008" EventId="5008" Enabled="true" Severity="debug" Message="Saving artist information for '{0}'. (ArtistId: {1})" />
+    <String Name="mf.0009" EventId="5009" Enabled="true" Severity="debug" Message="Saving recording information for '{0} - {1}'. (RecId: {2})" />
+    <String Name="mf.0010" EventId="5010" Enabled="true" Severity="warning" Message="Could not find recording information (RelId: '{0}') in MusicBrainz XML" />
+    <String Name="mf.0011" EventId="5011" Enabled="true" Severity="warning" Message="Could not find track information for our recording (RecId: {0}) in MusicBrainz XML" />
+    <String Name="mf.0012" EventId="5012" Enabled="true" Severity="debug" Message="Fetching web URL ({0}) as XML Document" />
+    <String Name="mf.0013" EventId="5013" Enabled="true" Severity="warning" Message="No releases found for artist. (ArtistID: {0})" />
+    <String Name="mf.0014" EventId="5014" Enabled="true" Severity="debug" Message="Could not find local recordings for (RelId: {0}), looking up on MusicBrainz" />
+    <String Name="mf.0015" EventId="5015" Enabled="true" Severity="debug" Message="Looking up recording for the release '{0}'" />
+    <String Name="mf.0016" EventId="5016" Enabled="true" Severity="debug" Message="Could not find releases for artist (ArtistId: {0}) locally, using MusicBrainz" />
+  </Strings>
+</RnLocale>
