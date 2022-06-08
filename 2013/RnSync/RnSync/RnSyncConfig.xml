@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnSync>
+  
+  <SyncJobs>
+    <!-- FileSystem => FileSystem -->
+    <SyncJob Enabled="true">
+      <JobInfo>
+        <JobName>WIS</JobName>
+        <JobDescription>Job Description</JobDescription>
+        <SyncDirection>OneWay</SyncDirection>
+      </JobInfo>
+      
+      <Source Type="FileSystem">
+        <Directory>Z:\Windows-Installs</Directory>
+      </Source>
+
+      <SyncDestinations>
+        <Destination Enabled="true" DestinationId="1" />
+      </SyncDestinations>
+    </SyncJob>
+  </SyncJobs>
+
+  <SyncDestinations>
+    <Destination Type="FileSystem" Id="1" Enabled="true">
+      <Name>Spare-PC (WIS) [E:\]</Name>
+      <Directory>E:\Windows-Installs</Directory>
+    </Destination>
+  </SyncDestinations>
+
+  <Credentials>
+    <!-- Holder -->
+  </Credentials>
+  
+  
+</RnSync>

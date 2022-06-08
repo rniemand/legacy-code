@@ -1,0 +1,25 @@
+﻿/* ***************************************************************************************************
+* STATTING COMMANDS
+*************************************************************************************************** */
+SELECT
+      COUNT(1) as 'Files',
+      ROUND((CAST(SUM(RemoteSize) as float) / (1024 * 1024)), 3) as 'FilesMb',      
+      (SELECT configName FROM ftp_config WHERE configId = 1) as 'ConfigName',      
+      (SELECT COUNT(1) FROM ftp_fileinfo WHERE configId = 1 AND LocalFileExists = 1) as 'Downloaded',
+      (SELECT ROUND((CAST(SUM(RemoteSize) as float) / (1024 * 1024)), 3) FROM ftp_fileinfo WHERE configId = 1 AND LocalFileExists = 1) as 'DownloadedMb',      
+      (SELECT COUNT(1) FROM ftp_fileinfo WHERE configId = 1 AND LocalFileExists = 0) as 'ToDownload',      
+      (SELECT ROUND((CAST(SUM(RemoteSize) as float) / (1024 * 1024)), 3) FROM ftp_fileinfo WHERE configId = 1 AND LocalFileExists = 0) as 'ToDownloadMb'
+FROM ftp_fileinfo
+WHERE configId = 1
+
+SELECT COUNT(1) FROM ftp_fileinfo WHERE LocalFileExists = 0
+
+
+/* ***************************************************************************************************
+* COMPARRISON COMMANDS
+*************************************************************************************************** */
+SELECT rowId, *
+FROM ftp_fileinfo
+WHERE configId = 1
+      AND RemoteFileExists = 1      
+      AND LocalFileExists = 0
