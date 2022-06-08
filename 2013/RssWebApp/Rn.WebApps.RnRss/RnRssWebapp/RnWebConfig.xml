@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnConfig>
+  <!-- All Loggers here -->
+  <RnLoggers>
+    <Logger Name="log" Enabled="true" Type="log" Severity="dev" LogLocation="c:\RnDev\Web.log" RollSizeMb="2.5" KeepLogs="true" KeepCount="5" />
+  </RnLoggers>
+  
+</RnConfig>
+
+<!-- <Logger Name="log" Enabled="true" Type="log" Severity="Dev" LogLocation="c:\RnDev\Test.log" RollSizeMb="2.5" KeepLogs="true" KeepCount="5" /> -->
+<!-- /RnConfig/RnLoggers/Logger[@Enabled='true'] -->

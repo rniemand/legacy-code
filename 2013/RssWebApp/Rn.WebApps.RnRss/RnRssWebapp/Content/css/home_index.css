@@ -1,0 +1,8 @@
+﻿input#rssFeedUrl {
+    width: 300px;
+}
+
+[class*="icon-"]:hover {
+    color: #9e9e9e;
+    cursor: pointer;
+}

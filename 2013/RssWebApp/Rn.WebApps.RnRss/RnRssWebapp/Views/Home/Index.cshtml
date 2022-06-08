@@ -1,0 +1,16 @@
+﻿@using Rn.WebApps.RnRss.Web.RnMvc
+@using RnCore.Logging
+@using RnCore.Mvc.Configuration
+
+@{
+    RnMvcPageScripts.Instance.AddCssFile("~/Content/css/home_index.css");
+    RnMvcPageScripts.Instance.AddJsFile("~/Content/js/home_index.js");
+    
+    ViewBag.Title = "Index";
+}
+
+<input type="text" placeholder="Type something…" value="http://rniemand.com/site/feed/" id="rssFeedUrl">
+<i class="icon-download icon-2x" id="getRssFeedIcon"></i>
+<div class="" id="rssInfoDiv"></div>
+
+@RnMvcConfig.DoLoadStuff()

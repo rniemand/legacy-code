@@ -1,0 +1,47 @@
+﻿@using Rn.WebApps.RnRss.Web.RnMvc
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RnRss - @ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    <link href="~/Content/css/bootstrap/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/css/fontawesome/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/css/RnRss.css" rel="stylesheet">
+    @Styles.Render(RnMvcPageScripts.Instance.GetCssFiles())
+    
+</head>
+    <body>
+        
+        <div class="navbar navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="brand" href="/">RnRss</a>
+                    <div class="nav-collapse in collapse" style="height: auto;">
+                        <ul class="nav">
+                            <li class="@ViewContext.IfActivePage("Home")"><a href="/">Home</a></li>
+                            <li class="@ViewContext.IfActivePage("Home", "Settings")"><a href="/Home/Settings">Settings</a></li>
+                        </ul>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+        
+        <div class="container">
+            @RenderBody()
+        </div>
+    
+        @Scripts.Render("~/bundles/modernizr")
+        @Scripts.Render("~/bundles/jquery")
+        <script src="~/Scripts/bootstrap.min.js"></script>
+        @Scripts.Render("~/Content/js/RnRss.js")
+        @Scripts.Render(RnMvcPageScripts.Instance.GetJsFiles())
+        @RenderSection("scripts", required: false)
+    </body>
+</html>
