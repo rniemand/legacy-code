@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NzbScraper.Dev", "NzbScraper.Dev\NzbScraper.Dev.csproj", "{60D976AB-102E-4E20-AEA8-D19C4DFD26E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NzbScraper.Services", "NzbScraper.Services\NzbScraper.Services.csproj", "{FC4E4897-F761-4DDB-A5A8-2564C8CFD62F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NzbScraper.Common", "NzbScraper.Common\NzbScraper.Common.csproj", "{FC485097-A907-42DA-8904-6F7A46A30DD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Common", "0. Common", "{C84271B2-781C-44FF-979E-7F031AE606E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. DAL", "1. DAL", "{99C2C8CF-72A8-4F66-B7C5-FEE176A873B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Services", "2. Services", "{DA3B0AB4-3488-435D-ACCE-ED2803E40A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NzbScraper.DAL", "NzbScraper.DAL\NzbScraper.DAL.csproj", "{860C96C1-1FC9-43FB-A57D-BE00A69C1BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D976AB-102E-4E20-AEA8-D19C4DFD26E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D976AB-102E-4E20-AEA8-D19C4DFD26E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D976AB-102E-4E20-AEA8-D19C4DFD26E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D976AB-102E-4E20-AEA8-D19C4DFD26E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC4E4897-F761-4DDB-A5A8-2564C8CFD62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4E4897-F761-4DDB-A5A8-2564C8CFD62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4E4897-F761-4DDB-A5A8-2564C8CFD62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4E4897-F761-4DDB-A5A8-2564C8CFD62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC485097-A907-42DA-8904-6F7A46A30DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC485097-A907-42DA-8904-6F7A46A30DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC485097-A907-42DA-8904-6F7A46A30DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC485097-A907-42DA-8904-6F7A46A30DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860C96C1-1FC9-43FB-A57D-BE00A69C1BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860C96C1-1FC9-43FB-A57D-BE00A69C1BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860C96C1-1FC9-43FB-A57D-BE00A69C1BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860C96C1-1FC9-43FB-A57D-BE00A69C1BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC4E4897-F761-4DDB-A5A8-2564C8CFD62F} = {DA3B0AB4-3488-435D-ACCE-ED2803E40A56}
+		{FC485097-A907-42DA-8904-6F7A46A30DD7} = {C84271B2-781C-44FF-979E-7F031AE606E9}
+		{860C96C1-1FC9-43FB-A57D-BE00A69C1BA9} = {99C2C8CF-72A8-4F66-B7C5-FEE176A873B3}
+	EndGlobalSection
+EndGlobal
