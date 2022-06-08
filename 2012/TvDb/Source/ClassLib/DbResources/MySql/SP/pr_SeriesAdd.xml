@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnCoreSP>
+  <SpInfo>
+    <Key Name="Name" Value="pr_SeriesAdd" Type="string" />
+    <Key Name="Version" Value="1.0.0" Type="version" />
+  </SpInfo>
+  
+  <Parameters>
+    <Parameter Name="seriesId" Type="int" DefaultValue="" />
+    <Parameter Name="id" Type="int" DefaultValue="" />
+    <Parameter Name="language" Type="varchar" DefaultValue="en" />
+    <Parameter Name="seriesName" Type="varchar" DefaultValue="" />
+    <Parameter Name="imdbId" Type="varchar" DefaultValue="" />
+    <Parameter Name="zap2itId" Type="varchar" DefaultValue="" />
+    <Parameter Name="banner" Type="varchar" DefaultValue="" />
+    <Parameter Name="overview" Type="text" DefaultValue="" />
+  </Parameters>
+
+  <Command>
+    <![CDATA[
+    INSERT INTO tb_series
+      (`seriesId`, `id`, `language`, `seriesName`, `imdbId`, `zap2itId`, `banner`, `overview`)
+    VALUES
+      ('@seriesId', '@id', '@language', '@seriesName', '@imdbId', '@zap2itId', '@banner', '@overview')
+    ]]>
+  </Command>
+</RnCoreSP>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnConfig>
+  <ConfigKeys>
+    <Key Name="TVDB.API.Key" Value="3D2FA1E43DDC28C1" Type="string" />
+    <Key Name="TVDB.CacheDir" Value="C:\Program Files\RnLabs\TVDV-App\Cache\" Type="string" />
+    <Key Name="TVDB.Language" Value="en" Type="string" />
+  </ConfigKeys>
+
+  <Loggers>
+    <Logger Enabled="true" Type="LogFile" Severity="debug" Name="Test" Keep="10" Roll="10" File="c:\Rn.Core\TVDB.log" />
+    <Logger Enabled="true" Type="Console" Severity="warning" Name="Test" />
+  </Loggers>
+</RnConfig>

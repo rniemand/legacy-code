@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rn.Core.Locale>
+  <LocaleInfo>
+    <Key Name="Language" Value="English (SA)" Type="string" />
+    <Key Name="Version" Value="1.0.0.0" Type="version" />
+    <Key Name="Language.Short" Value="en" Type="string" />
+    <Key Name="Language.Author" Value="Richard Niemand" Type="string" />
+    <Key Name="Language.Author.Email" Value="niemand.richard@gmail.com" Type="email" />
+    <Key Name="Language.Author.URL" Value="http://richards-blog.com/html/" Type="url" />
+  </LocaleInfo>
+
+  <StringResources>
+    <String Name="0001" EventID="1001" Severity="debug" Enabled="true" Value="Loaded '{0}' mirrors from TVDB" />
+    <String Name="0002" EventID="0002" Severity="error" Enabled="true" Value="There were no mirrors returned from TVDB" />
+    <String Name="0003" EventID="0003" Severity="debug" Enabled="true" Value="Created a new mirror object. (id: {0}) (typemask: {1}) (url: {2})" />
+    <String Name="0004" EventID="0004" Severity="error" Enabled="true" Value="An exception was thrown while searching for the show '{0}'" />
+    <String Name="0005" EventID="0005" Severity="error" Enabled="true" Value="There were no actors found for the given show. (show id: {0}) (language: {1})" />
+    <String Name="0006" EventID="0006" Severity="error" Enabled="true" Value="There were no banners found for the given show. (show id: {0}) (language: {1})" />
+    <String Name="0007" EventID="0007" Severity="error" Enabled="true" Value="There were no episodes found for the given show. (show id: {0}) (language: {1})" />
+    <String Name="0008" EventID="0008" Severity="warning" Enabled="true" Value="There were no episode found for season {0}. (show id: {1}) (language: {2})" />
+    <String Name="0009" EventID="0009" Severity="error" Enabled="true" Value="Could not get the show information out of '{0}'." />
+  </StringResources>
+</Rn.Core.Locale>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnConfig>
+  <DbSp Folder="./DbResources/{0}/SP/" />
+  
+  <ConfigKeys>
+    <Key Name="TVDB.API.Key" Value="3D2FA1E43DDC28C1" Type="string" />
+    <Key Name="TVDB.CacheDir" Value="C:\Program Files\RnLabs\TVDV-App\Cache\" Type="string" />
+    <Key Name="TVDB.Language" Value="en" Type="string" />
+  </ConfigKeys>
+
+  <Loggers>
+    <Logger Enabled="true" Type="LogFile" Severity="debug" Name="Test" Keep="10" Roll="10" File="c:\Rn.Core\TVDB.log" />
+    <Logger Enabled="true" Type="Console" Severity="warning" Name="Test" />
+  </Loggers>
+
+  <DBConnections>
+    <Connection Enabled="true" Type="MySQL" Name="default" Host="192.168.0.5" DB="tvdb" User="..." Pass="..." />
+  </DBConnections>
+</RnConfig>
