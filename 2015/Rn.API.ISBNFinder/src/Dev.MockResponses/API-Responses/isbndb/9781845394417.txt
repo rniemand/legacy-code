@@ -1,0 +1,11 @@
+﻿{|
+    enabled=true
+    url=http://isbndb.com/api/books.xml?access_key=(.*?)&index1=isbn&value1=9781406328073
+    userx=true
+    response_type=xml
+|}
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2015-02-06T18:35:38Z">
+<BookList total_results="0" page_size="10" page_number="1" shown_results="0"></BookList>
+</ISBNdb>

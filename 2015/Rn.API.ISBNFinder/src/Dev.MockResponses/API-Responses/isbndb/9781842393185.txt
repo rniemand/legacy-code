@@ -1,0 +1,18 @@
+﻿{|
+    enabled=true
+    url=http://isbndb.com/api/books.xml?access_key=(.*?)&index1=isbn&value1=9781406328073
+    userx=true
+    response_type=xml
+|}
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2015-02-06T18:36:23Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="enid_blyton_reynards_wonderful_plan" isbn="1842393189" isbn13="9781842393185">
+<Title>Enid Blyton Reynard's Wonderful Plan</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Enid Blyton, </AuthorsText>
+<PublisherText publisher_id=""></PublisherText>
+</BookData>
+</BookList>
+</ISBNdb>
