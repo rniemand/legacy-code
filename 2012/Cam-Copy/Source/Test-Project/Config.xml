@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CamCopy>
+  <Loggers>
+    <Logger Enabled="true" Type="LogFile" Severity="debug" Name="Test" Keep="10" Roll="10" File="c:\Rn.Core\CamCopy\CamCopy.log" />
+  </Loggers>
+  
+  <WatchFolders>
+    <Folder Name="WebCam-01" Enabled="true">
+      <Key Name="WatchDir" Value="\\192.168.0.5\c$\Users\Administrator\AppData\Roaming\iSpy\WebServerRoot\Media\video\SLTNS\grabs" Type="path" />
+      <Key Name="TargetFile" Value="Z:\xampp\htdocs\webcam\images\CAM-01.jpg" Type="path" />
+      <Key Name="FileFilter" Value="*.jpg" Type="string" />
+      <Key Name="DeleteSource" Value="true" Type="bool" />
+      <Key Name="OverwriteTarget" Value="true" Type="bool" />
+    </Folder>
+
+    <Folder Name="WebCam-02" Enabled="true">
+      <Key Name="WatchDir" Value="\\192.168.0.5\c$\Users\Administrator\AppData\Roaming\iSpy\WebServerRoot\Media\video\SRDBQ\grabs" Type="path" />
+      <Key Name="TargetFile" Value="Z:\xampp\htdocs\webcam\images\CAM-02.jpg" Type="path" />
+      <Key Name="FileFilter" Value="*.jpg" Type="string" />
+      <Key Name="DeleteSource" Value="true" Type="bool" />
+      <Key Name="OverwriteTarget" Value="true" Type="bool" />
+    </Folder>
+  </WatchFolders>
+</CamCopy>
