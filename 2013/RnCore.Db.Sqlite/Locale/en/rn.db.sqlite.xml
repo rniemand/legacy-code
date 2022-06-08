@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnLocale>
+  <Information>
+    
+  </Information>
+  <Strings>
+    <String Name="sqlite.001" EventId="1251" Enabled="true" Severity="warning" Message="Could not find DB file '{0}'" />
+    <String Name="sqlite.002" EventId="1252" Enabled="true" Severity="debug" Message="Attempting to connect to DB '{0}'" />
+    <String Name="sqlite.003" EventId="1253" Enabled="true" Severity="warning" Message="Empty SQL command string given to method" />
+  </Strings>
+</RnLocale>

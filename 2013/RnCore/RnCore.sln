@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnCore", "RnCore\RnCore.csproj", "{C5118377-3D50-45C3-935E-1B0BBE69057A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnCoreTester", "RnCoreTester\RnCoreTester.csproj", "{3F85BDB0-F8B6-46AE-B078-D0BD8D87A8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5118377-3D50-45C3-935E-1B0BBE69057A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5118377-3D50-45C3-935E-1B0BBE69057A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5118377-3D50-45C3-935E-1B0BBE69057A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5118377-3D50-45C3-935E-1B0BBE69057A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F85BDB0-F8B6-46AE-B078-D0BD8D87A8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F85BDB0-F8B6-46AE-B078-D0BD8D87A8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F85BDB0-F8B6-46AE-B078-D0BD8D87A8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F85BDB0-F8B6-46AE-B078-D0BD8D87A8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
