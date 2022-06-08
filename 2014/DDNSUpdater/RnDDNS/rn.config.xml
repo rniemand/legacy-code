@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnConfig>
+    <Credentials>
+        <Credentials id="kguard" username="..." password="..." />
+    </Credentials>
+    <Domains>
+        <!-- kguard.org -->
+        <Domain id="1" type="DDNS" enabled="true" serverUrl="http://www.kguard.org" hostname="...kguard.org" credentialsId="kguard" />
+        <Domain id="2" type="DDNS" enabled="true" serverUrl="http://www.kguard.org" hostname="...kguard.org" credentialsId="kguard" />
+        <Domain id="3" type="DDNS" enabled="true" serverUrl="http://www.kguard.org" hostname="...kguard.org" credentialsId="kguard" />
+        <Domain id="4" type="DDNS" enabled="true" serverUrl="http://www.kguard.org" hostname="...kguard.org" credentialsId="kguard" />
+        <Domain id="5" type="DDNS" enabled="false" serverUrl="http://www.kguard.org" hostname="dummy.domain.should.be.disabled" credentialsId="kguard" />
+    </Domains>
+</RnConfig>

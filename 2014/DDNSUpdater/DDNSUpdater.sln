@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnDdns.Dev", "DDNSUpdater\RnDdns.Dev.csproj", "{50F7AF9C-C678-4D0F-A610-5C2A4FF2C5B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnDdns.Service", "RnDDNS\RnDdns.Service.csproj", "{F8CAF852-2C1E-42E2-AC10-906712137F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnDdns.Common", "RnDdns.Common\RnDdns.Common.csproj", "{40B7BD9F-208D-4B79-ADE3-D0E0E3A09CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnDdns.Tools", "RnDdns.Tools\RnDdns.Tools.csproj", "{862A5F95-B767-4FB8-B5F8-670A161A8BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F7AF9C-C678-4D0F-A610-5C2A4FF2C5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F7AF9C-C678-4D0F-A610-5C2A4FF2C5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F7AF9C-C678-4D0F-A610-5C2A4FF2C5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F7AF9C-C678-4D0F-A610-5C2A4FF2C5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CAF852-2C1E-42E2-AC10-906712137F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CAF852-2C1E-42E2-AC10-906712137F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CAF852-2C1E-42E2-AC10-906712137F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CAF852-2C1E-42E2-AC10-906712137F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B7BD9F-208D-4B79-ADE3-D0E0E3A09CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B7BD9F-208D-4B79-ADE3-D0E0E3A09CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B7BD9F-208D-4B79-ADE3-D0E0E3A09CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B7BD9F-208D-4B79-ADE3-D0E0E3A09CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862A5F95-B767-4FB8-B5F8-670A161A8BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862A5F95-B767-4FB8-B5F8-670A161A8BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862A5F95-B767-4FB8-B5F8-670A161A8BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862A5F95-B767-4FB8-B5F8-670A161A8BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
