@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RxPatterns>
+  <Pattern Name="0001" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="Output" Value="This is a static mapping" Type="string" AllowOverwrite="false" />
+      <Mapping Enabled="true" Field="Details" Value="You should not see this" Type="string" AllowOverwrite="true" />
+    </StaticMappings>
+    <RxPattern><![CDATA[.*?matched the following output:.*?(\w\:.*?\.\w{1,4})\((\d{1,}),.*?(\d{1,})\)(.*?)Command executed:.*?(".*?").*?(".*?") (.*?)Working Directory:.*?Workflow name:(.*?)Instance name:(.*?)Instance ID:(.*?)Management group:(.*)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="Output" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="LineNo" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="LinePos" />
+      <Group Enabled="true" GroupNo="4" DefaultValue="" MapsTo="Details" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0002" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[.*?:(.*?):.*?The following processes are running on "(.*?)".*?(Name,Exe.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="ServerName" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="ServerName" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="Details" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0003" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[.*?There was an error with the arguments given to(.*?)There were too few arguments given.*?cript (.*?):(.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="ScomScript" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="Details" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="ScriptArgs" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0004" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[the.*?The 'ExitCode' policy expression:.*?wing output:(.*?)Command executed:(.*?)Working Directory:.*?Workflow name:(.*?)Instance name:(.*?)Instance ID:(.*?)Management group:(.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="Output" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="Query" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="WorkflowName" />
+      <Group Enabled="true" GroupNo="4" DefaultValue="" MapsTo="InstanceName" />
+      <Group Enabled="true" GroupNo="5" DefaultValue="" MapsTo="InstanceId" />
+      <Group Enabled="true" GroupNo="6" DefaultValue="" MapsTo="ManagementGroupName" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0005" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[an.*?on line(.*?)while e.*?pt '(.*?)'.*?Source:(.*?)Description:(.*?)One or more wo.*?Workflow name:(.*?)Instance name:(.*?)Instance ID:(.*?)Management group:(.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="LineNo" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="ScomScript" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="Source" />
+      <Group Enabled="true" GroupNo="4" DefaultValue="" MapsTo="Details" />
+      <Group Enabled="true" GroupNo="5" DefaultValue="" MapsTo="WorkflowName" />
+      <Group Enabled="true" GroupNo="6" DefaultValue="" MapsTo="InstanceName" />
+      <Group Enabled="true" GroupNo="7" DefaultValue="" MapsTo="InstanceId" />
+      <Group Enabled="true" GroupNo="8" DefaultValue="" MapsTo="ManagementGroupName" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0006" Enabled="true">
+    <!-- Ran past timeout -->
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[Forced.*?ran past the configured timeout(.*?)\..*?Command executed:(.*?)Working Directory:.*?Workflow name:(.*?)Instance name:(.*?)Instance ID:(.*?)Management group:(.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="Details" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="ScriptArgs" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="WorkflowName" />
+      <Group Enabled="true" GroupNo="4" DefaultValue="" MapsTo="InstanceName" />
+      <Group Enabled="true" GroupNo="5" DefaultValue="" MapsTo="InstanceId" />
+      <Group Enabled="true" GroupNo="6" DefaultValue="" MapsTo="ManagementGroupName" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0007" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[failed.*?error '(.*?)'.*?Command executed:(.*?)Working Directory:.*?Workflow name:(.*?)Instance name:(.*?)Instance ID:(.*?)Management group:(.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="Details" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="ScriptArgs" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="WorkflowName" />
+      <Group Enabled="true" GroupNo="4" DefaultValue="" MapsTo="InstanceName" />
+      <Group Enabled="true" GroupNo="5" DefaultValue="" MapsTo="InstanceId" />
+      <Group Enabled="true" GroupNo="6" DefaultValue="" MapsTo="ManagementGroupName" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0008" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[mach.*?Alert:(.*?): Stored.*?SP Name:(.*?)Connection String:(.*?)Computer Name:(.*?)DB Name:(.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="ServerName" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="Query" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="InstanceName" />
+      <Group Enabled="true" GroupNo="4" DefaultValue="" MapsTo="ServerName" />
+      <Group Enabled="true" GroupNo="5" DefaultValue="" MapsTo="Details" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0009" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[a.*?(rule|monitor).*?generated(.*?)seconds.*?(suspended until.*?)Rule:(.*?)Instance:(.*?)Instance ID:(.*?)Management Group:(.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="Source" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="Details" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="Result" />
+      <Group Enabled="true" GroupNo="4" DefaultValue="" MapsTo="ScomScript" />
+      <Group Enabled="true" GroupNo="5" DefaultValue="" MapsTo="InstanceName" />
+      <Group Enabled="true" GroupNo="6" DefaultValue="" MapsTo="InstanceId" />
+      <Group Enabled="true" GroupNo="7" DefaultValue="" MapsTo="ManagementGroupName" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0010" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[the.*?System.PropertyBagData.*?no errors detected.*?exited with(.*?)Command executed:(.*?)MonitoringContext:.*?Workflow name:(.*?)Instance name:(.*?)Instance ID:(.*?)Management group:(.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="Details" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="ScriptArgs" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="WorkflowName" />
+      <Group Enabled="true" GroupNo="4" DefaultValue="" MapsTo="InstanceName" />
+      <Group Enabled="true" GroupNo="5" DefaultValue="" MapsTo="InstanceId" />
+      <Group Enabled="true" GroupNo="6" DefaultValue="" MapsTo="ManagementGroupName" />
+    </RxMappings>
+  </Pattern>
+
+  <Pattern Name="0011" Enabled="true">
+    <StaticMappings>
+      <Mapping Enabled="true" Field="AlertName" Value="Richard Test" Type="string" AllowOverwrite="false" />
+    </StaticMappings>
+    <RxPattern><![CDATA[the.*?no errors detected in the output.(.*?)Command executed:(.*?)Working Directory:.*?Workflow name:(.*?)Instance name:(.*?)Instance ID:(.*?)Management group:(.*?)$]]></RxPattern>
+    <RxMappings>
+      <Group Enabled="true" GroupNo="1" DefaultValue="" MapsTo="Details" />
+      <Group Enabled="true" GroupNo="2" DefaultValue="" MapsTo="ScriptArgs" />
+      <Group Enabled="true" GroupNo="3" DefaultValue="" MapsTo="WorkflowName" />
+      <Group Enabled="true" GroupNo="4" DefaultValue="" MapsTo="InstanceName" />
+      <Group Enabled="true" GroupNo="5" DefaultValue="" MapsTo="InstanceId" />
+      <Group Enabled="true" GroupNo="6" DefaultValue="" MapsTo="ManagementGroupName" />
+    </RxMappings>
+  </Pattern>
+  
+</RxPatterns>

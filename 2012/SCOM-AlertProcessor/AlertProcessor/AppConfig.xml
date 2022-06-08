@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AlertProcessor>
+  <ConfigKeys>
+    <Key Name="App.Files.RxPatterns" Value="./RxPatterns.xml" Type="path" />
+    
+    <Key Name="Alerts.SQL.LimitSelectTo" Value="10" Type="int" />
+    <Key Name="Alerts.SQL.SearchDaysBack" Value="3" Type="int" />
+    <Key Name="Alerts.SQL.LimitSeverity" Value="true" Type="bool" />
+    <Key Name="Alerts.SQL.LimitSeverityTo" Value="1" Type="int" />
+    <Key Name="Alerts.SQL.OrderBy" Value="RaisedDateTime" Type="string" />
+    <Key Name="Alerts.SQL.Order" Value="DESC" Type="string" />
+    <Key Name="Alerts.SQL.FetchSpecificAlerts" Value="true" Type="bool" />
+    
+    <Key Name="Alerts.SQL.DumpCommand" Value="true" Type="bool" />
+    <Key Name="Alerts.SQL.DumpCommand.Path" Value="c:\current_sql_command.sql" Type="string" />
+    
+    <Key Name="Alerts.Dev.DumpUnknown" Value="true" Type="bool" />
+    <Key Name="Alerts.Dev.DumpPath" Value="./unknown_alerts/" Type="string" />
+    
+    <Key Name="Alerts.Export.Enabled" Value="true" Type="bool" />
+    <Key Name="Alerts.Export.Path" Value="c:\exportedAlerts.csv" Type="string" />
+  </ConfigKeys>
+  
+  <Loggers>
+    <Logger Type="LogFile" Enabled="true" LoggingSeverity="debug" Name="default" FilePath="c:\scom_alert_tool.log" MaxLogSize="10" KeepLogs="2" />
+  </Loggers>
+
+  <DBConnections>
+    <Connection Name="default" Type="MSSQL" Enabled="true" Server="scomdw" Database="OperationsManagerDW" OpenOnCreate="true" />
+  </DBConnections>
+
+  <AlertFilters>
+    <IgnoreExact>
+      <AlertName Enabled="true" Name="Unable to Verify Run As Account" />
+      <AlertName Enabled="true" Name="Application Pool worker process is unresponsive" />
+    </IgnoreExact>
+    
+    <IgnoreLike>
+      <AlertName Enabled="true" Name="SQL - Login Failure" />
+    </IgnoreLike>
+
+    <IncludeExact>
+      <AlertName Enabled="true" Name="Scripts - Missing Args (660)" />
+    </IncludeExact>
+  </AlertFilters>
+  
+</AlertProcessor>

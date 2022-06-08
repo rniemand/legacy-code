@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MpToolsConfig>
+  <!-- Yay a preset here -->
+  <MpSealerPresets>
+    <Preset Name="Preset 1" Enabled="true" Default="true">
+      <Key Name="MPSourceDir" Value="1" Type="ref" />
+      <Key Name="KeyFile" Value="2" Type="ref" />
+      <Key Name="MPOutputDir" Value="3" Type="ref" />
+      <Key Name="Company" Value="Test" Type="string" />
+      <Key Name="ZipMps" Value="true" Type="bool" />
+      <Key Name="ZipDir" Value="X:\2_Sort\__mp_tmp__\backups\" Type="string" />
+    </Preset>
+  </MpSealerPresets>
+  
+  <MPSourceDirs>
+    <Dir Enabled="true" Id="1" Path="X:\2_Sort\__mp_tmp__" />
+  </MPSourceDirs>
+
+  <MPOutputDirs>
+    <Dir Enabled="true" Id="1" Path="X:\2_Sort\__mp_tmp__\sealed" />
+  </MPOutputDirs>
+
+  <MpIncludeDirs>
+    <Dir Enabled="true" Id="1" Path="X:\2_Sort\__mp_tmp__\includes\1" />
+    <Dir Enabled="true" Id="2" Path="X:\2_Sort\__mp_tmp__\includes\2" />
+    <Dir Enabled="true" Id="3" Path="X:\2_Sort\__mp_tmp__\includes\3" />
+    <Dir Enabled="true" Id="4" Path="X:\2_Sort\__mp_tmp__\includes\4" />
+  </MpIncludeDirs>
+
+  <KeyFiles>
+    <KeyFile Name="Default" Enabled="true" Id="1" Path="X:\2_Sort\__mp_tmp__\keys\master.snk" />
+  </KeyFiles>
+
+  <Loggers>
+    <Logger
+      Type="LogFile" Enabled="true" LoggingSeverity="debug" Name="default"
+      FilePath="c:\mp_tools.log" MaxLogSize="20" KeepLogs="0"
+    />
+  </Loggers>
+</MpToolsConfig>
