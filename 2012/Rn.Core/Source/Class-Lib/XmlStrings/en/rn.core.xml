@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rn.Core.Locale>
+  <LocaleInfo>
+    <Key Name="Language" Value="English (SA)" Type="string" />
+    <Key Name="Version" Value="1.0.0.0" Type="version" />
+    <Key Name="Language.Short" Value="en" Type="string" />
+    <Key Name="Language.Author" Value="Richard Niemand" Type="string" />
+    <Key Name="Language.Author.Email" Value="niemand.richard@gmail.com" Type="email" />
+    <Key Name="Language.Author.URL" Value="http://richards-blog.com/html/" Type="url" />
+  </LocaleInfo>
+
+  <StringResources>
+    <String Name="0001" EventID="1001" Severity="error" Enabled="true" Value="The configuration file '{0}' is not loaded" />
+    <String Name="0002" EventID="1002" Severity="warning" Enabled="true" Value="A configuration file with the name '{0}' is already loaded" />
+    <String Name="0003" EventID="1003" Severity="debug" Enabled="true" Value="Successfully loaded the configuration file '{0}'" />
+    <String Name="0004" EventID="1004" Severity="debug" Enabled="true" Value="Successfully created '{0}' new loggers" />
+    <String Name="0005" EventID="1005" Severity="error" Enabled="true" Value="An exception was thrown creating an XML defined logger: {0}" />
+    <String Name="0006" EventID="1006" Severity="warning" Enabled="true" Value="Error creating the folder '{0}': {1}" />
+    <String Name="0007" EventID="1007" Severity="warning" Enabled="true" Value="Cannot cast the value '{0}' to boolean" />
+    <String Name="0008" EventID="1008" Severity="debug" Enabled="true" Value="Successfully copied '{0}' => '{1}'" />
+    <String Name="0009" EventID="1009" Severity="warning" Enabled="true" Value="Error renaming '{0}' => '{1}': {2}" />
+    <String Name="0010" EventID="1010" Severity="debug" Enabled="true" Value="Successfully deleted '{0}'" />
+    <String Name="0011" EventID="1011" Severity="debug" Enabled="true" Value="Error copying the file '{0}': {1}" />
+    <String Name="0012" EventID="1012" Severity="debug" Enabled="true" Value="Getting URL content for '{0}'" />
+    <String Name="0013" EventID="1013" Severity="debug" Enabled="true" Value="MySQL connection to '{0}' was opened successfully" />
+    <String Name="0014" EventID="0014" Severity="warning" Enabled="true" Value="Unable to download '{0}' and save it as '{1}': {2}" />
+    <String Name="0015" EventID="0015" Severity="debug" Enabled="true" Value="Starting file download. (url: {0}) (destination: {1})" />
+    <String Name="0016" EventID="0016" Severity="warning" Enabled="true" Value="The zip entry '{0}' was not found in the zip file '{1}'" />
+    <String Name="0017" EventID="0017" Severity="debug" Enabled="true" Value="Successfully added '{0}' (as: {1}) to the zip file '{2}'" />
+  </StringResources>
+</Rn.Core.Locale>

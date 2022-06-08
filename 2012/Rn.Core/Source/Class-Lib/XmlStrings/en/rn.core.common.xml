@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rn.Core.Locale>
+  <LocaleInfo>
+    <Key Name="Language" Value="English (SA)" Type="string" />
+    <Key Name="Version" Value="1.0.0.0" Type="version" />
+    <Key Name="Language.Short" Value="en" Type="string" />
+    <Key Name="Language.Author" Value="Richard Niemand" Type="string" />
+    <Key Name="Language.Author.Email" Value="niemand.richard@gmail.com" Type="email" />
+    <Key Name="Language.Author.URL" Value="http://richards-blog.com/html/" Type="url" />
+  </LocaleInfo>
+
+  <StringResources>
+    <String Name="rn.common.001" EventID="1000" Severity="error" Enabled="true" Value="The file '{0}' could not be found" />
+    <String Name="rn.common.002" EventID="1001" Severity="error" Enabled="true" Value="An exception was thrown: {0}" />
+    <String Name="rn.common.003" EventID="1002" Severity="debug" Enabled="true" Value="Created a new instance of '{0}'" />
+    <String Name="rn.common.004" EventID="1003" Severity="warning" Enabled="true" Value="Cannot cast '{0}' as a '{1}': {2}" />
+  </StringResources>
+</Rn.Core.Locale>

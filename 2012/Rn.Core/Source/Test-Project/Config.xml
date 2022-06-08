@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RnConfig>
+  <Locale Short="en" Directory="./XmlStrings" />
+  
+  <ConfigKeys>
+    <Key Name="String" Value="Hello World" Type="string" />
+    <Key Name="Int" Value="10" Type="int" />
+    <Key Name="Bool" Value="true" Type="bool" />
+    <Key Name="Long" Value="1234567890" Type="long" />
+  </ConfigKeys>
+
+  <Loggers>
+    <Logger Enabled="true" Type="Console" Severity="warning" Name="Test" />
+    <Logger Enabled="true" Type="LogFile" Severity="debug" Name="Test" Keep="10" Roll="10" File="c:\Rn.Core\Main.log" />
+    <Logger Enabled="false" Type="NT" Severity="debug" Name="Test" Log="Application" Source="Rn.Core" />
+  </Loggers>
+
+  <DBConnections>
+    <!--  AutoOpen="true" -->
+    <Connection Enabled="true" Type="MySQL" Name="default" Host="192.168.0.5" DB="chat_bot" User="..." Pass="..." />
+  </DBConnections>
+  
+</RnConfig>
