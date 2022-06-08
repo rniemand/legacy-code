@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System;
 using System.Text;
 using AdslSwitcher2.Classes.Routers;
 using System.Windows.Forms;
