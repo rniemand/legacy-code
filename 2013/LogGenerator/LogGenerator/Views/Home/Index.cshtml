@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_Layout.cshtml";
+}
+<script src="~/Public/js/jquery.flot/jquery.flot.pie.min.js"></script>
+
+<h2>RnTimer Demo</h2>
+
+<h3>Global Timer Controls</h3>
+<p>These controls allow you to interact with all timers attatched to the <strong>RnTimer</strong> object.</p>
+<div class="timerControls">
+    <span>Logging</span>
+    <button id="debugOn">Debug On</button>
+    <button id="debugOff">Debug Off</button>
+    <button id="clearConsole">Clear Console</button>
+</div>
+
+<div class="timerControls spacer">
+    <span class="global">Global</span>
+    <button id="startAll">Start All Timers</button>
+    <button id="stopAll">Stop All Timers</button>
+    <button id="pauseAll">Pause All Timers</button>
+    <button id="setAllInt">Set All Intervals</button>
+</div>
+
+<h3>Individual Timer Controls</h3>
+<p>Simple demo page for the <strong>RnTimer</strong> jQuery plugin.</p>
+<div id="timerAdmin">
+    <button class="add">Add New Timer</button>
+</div>
+
+<div id="allTimerControls">
+    <div class="timerControls" data-timer="timer1">
+        <span class="timer1">Timer 1</span>
+        <button class="start">Start</button>
+        <button class="pause">Pause</button>
+        <button class="stop">Stop</button>
+        <button class="changeInterval">Set Interval</button>
+        <button class="addCallback">Add Callback</button>
+        <button class="clearCallbacks">Clear Callbacks</button>
+        <button class="removeCallback">Remove Callback</button>
+    </div>
+</div>
+
+<div id="userInteraction">&nbsp;</div>

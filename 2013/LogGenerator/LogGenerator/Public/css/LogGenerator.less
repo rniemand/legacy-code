@@ -1,0 +1,96 @@
+﻿body {
+  padding-top: 50px;
+}
+
+div
+{
+    &.timerControls
+    {
+        border: 1px dotted #808080;
+        padding: 3px;
+        margin-bottom: 5px;
+
+        span
+        {
+            display: inline-block;
+            width: 70px;
+            height: auto;
+            background-color: #000;
+            color: #FFF;
+            padding-left: 4px;
+
+            &.timer1
+            {
+                background-color: #24931b;
+            }
+
+            &.timer2
+            {
+                background-color: #1b5593;
+            }
+
+            &.timer3
+            {
+                background-color: #931b22;
+            }
+
+            &.timer4
+            {
+                background-color: #caa94d;
+            }
+
+            &.timer5
+            {
+                background-color: #c36722;
+            }
+
+            &.timer6
+            {
+                background-color: #828b2f;
+            }
+
+            &.global
+            {
+                background-color: #625f5f;
+            }
+        }
+
+        &:hover
+        {
+            background-color: #fffce1;
+        }
+
+        &.spacer
+        {
+            margin-bottom: 20px;
+        }
+    }
+
+    &#userInteraction
+    {
+        display: none;
+
+        div.clearMsg
+        {
+            display: inline-block;
+            float: right;
+            font-weight: bold;
+
+            &:hover
+            {
+                cursor: pointer;
+                text-decoration: underline;
+                color: #3e83e2;
+            }
+        }
+
+        &.show
+        {
+            display: block;
+            margin-top: 10px;
+            border: 1px solid #000;
+            background-color: #e4e2d6;
+            padding: 4px;
+        }
+    }
+}
