@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rn.Core.Locale>
+  <LocaleInfo>
+    <Key Name="Language" Value="English (SA)" Type="string" />
+    <Key Name="Version" Value="1.0.0.0" Type="version" />
+    <Key Name="Language.Short" Value="en" Type="string" />
+    <Key Name="Language.Author" Value="Richard Niemand" Type="string" />
+    <Key Name="Language.Author.Email" Value="niemand.richard@gmail.com" Type="email" />
+    <Key Name="Language.Author.URL" Value="http://richards-blog.com/html/" Type="url" />
+  </LocaleInfo>
+
+  <StringResources>
+    <String Name="0001" EventID="1001" Severity="error" Enabled="true" Value="COuld not find the configuration file '{0}'" />
+  </StringResources>
+</Rn.Core.Locale>

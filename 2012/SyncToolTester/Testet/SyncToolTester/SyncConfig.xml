@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SyncConfig>
+  
+  <Sync Name="Test Sync" Enabled="true" Type="OneWay">
+    <Source Path="X:\Windows-Installs" />
+    <Dest Path="C:\Users\Richard\Desktop\SyncTarget" />
+    <SyncOptions>
+    </SyncOptions>
+  </Sync>
+  
+</SyncConfig>
